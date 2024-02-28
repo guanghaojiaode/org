@@ -44,7 +44,7 @@ However, in some special scenarios, the sodium could still boil.
 **** Scenario: Cooling Channel Blocked and Sodium Boiling
 :PROPERTIES:
 :ID:         f48cfc71-df88-45e4-b53d-e49347d2f29d
-:NOTER_DOCUMENT: mylib/pdf/schulenbergFourthGenerationNuclear2022a.pdf
+:NOTER_DOCUMENT: mylib/pdf/schulenbergFourthGenerationNuclear2022.pdf
 :NOTER_PAGE: 111
 :END:
 #+BEGIN_QUOTE
