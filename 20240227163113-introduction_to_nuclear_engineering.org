@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ed73146e-38dd-491c-8a83-d4ca4f6dd8ce
+:ROAM_REFS: cite:lamarshIntroductionNuclearEngineering2001
+:END:
+#+title: Introduction to nuclear engineering
+

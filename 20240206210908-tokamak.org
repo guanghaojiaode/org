@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       40015feb-c72d-434d-ae14-0c705ea44035
+:END:
+#+title: Tokamak
+It is from USSR.
+The best data are from the Tokamak confinement.

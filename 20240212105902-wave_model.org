@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e2792f1c-dcde-4e28-9443-b8a43214b3bc
+:END:
+#+title: Wave Model
+

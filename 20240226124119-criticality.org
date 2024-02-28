@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ef8f9826-1c5c-4ee5-af90-1fc665e1baae
+:NOTER_DOCUMENT: mylib/pdf/schulenbergFourthGenerationNuclear2022a.pdf
+:END:
+#+title: Criticality
+* What is criticality
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+#+BEGIN_QUOTE
+
+If we adjust the neutron absorption so that the neutron flux remains constant in time, the reactor is said to be critical. If the neutron flux can only increase with the help of the delayed neutrons, it is called delayed supercritical, and if the prompt neutrons alone cause the neutron flux to increase, the reactor is called prompt supercritical. Of course, we'd better not do that. That would be too fast. The multiplication factor should therefore not be much greater than one.
+#+END_QUOTE
+cite: [[id:bb844c28-cde7-4062-a2bd-014135d18365][schulenbergFourthGenerationNuclear2022]]

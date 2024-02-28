@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       8a6b8082-5002-4d5d-abea-c08c2cfefde6
+:END:
+#+title: Laplace Operator

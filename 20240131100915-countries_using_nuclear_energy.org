@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       070536d1-9b36-4a8b-a478-b1ad5b620d74
+:END:
+#+title: Countries Using Nuclear Energy
+The US, Japan and France generate 56% nuclear energy over the world. The nuclear energy provides France with 80% of its total electricity. 

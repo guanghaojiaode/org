@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ccb64dc8-11ce-43d8-a5ea-1bc875797435
+:END:
+#+title: Feldgröße
+
+$\psi({\underline{{x}}}(t))$
+$t$: Zeitvariable
+$\underline{x}(t)$: Zeitabhängige Vektor im kartesischen Koordinatensystem

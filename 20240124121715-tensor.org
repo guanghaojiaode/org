@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ea2991d7-1e78-4a1c-aaf1-6b4bd00e3a5a
+:END:
+#+title: Tensor
+
+- Def.: an algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space.
+- independent of any basis
+- zero order: scalar
+- first order: vector
+- second order: matrix
+- third order: 3-d space
+  
+- ref: [[https://en.wikipedia.org/wiki/Tensor]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d7f471b4-d7df-4aa5-9239-d487705db9bb
+:END:
+#+title: Evolutionary Power Reactor (EPR)
+EPR is actually a development of a [[id:b31e2ab4-a8dd-43b1-aa56-e0fd20a10353][Pressured Water Reactors (PWRs)]] to use highly enriched uranium oxide or the mixture of uranium and thorium (MOX).
+
+Compare to the PWRs:
+
+It is more compact than the normal Generation III reactors, thus it can be build in a shorter time. It has also many safety features and produced much less wastes.
+
+It has 4 separeted and independent emergency system.
+
+It is also interesting that it is resistant to the aeroplane crash and earthquake.

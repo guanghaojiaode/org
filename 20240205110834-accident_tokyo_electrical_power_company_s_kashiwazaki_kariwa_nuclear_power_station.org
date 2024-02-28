@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       07829df0-7048-4eea-8b09-a4d7ab20eb51
+:END:
+#+title: Accident Tokyo Electrical Power Company's Kashiwazaki-Kariwa Nuclear Power Station 
+1. hit by an earthquake
+2. fire
+3. reactors automaticlly shut down
+4. fuel stored in water pool
+5. water pool leakage
+6. contamination of the ocean 1 billionth over the limit
+

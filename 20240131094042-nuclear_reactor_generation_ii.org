@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       55edbd59-0105-4e1d-805f-b6c3138de93d
+:END:
+#+title: Nuclear Reactor Generation II
+The US firstly built a reactor in the type of [[id:b31e2ab4-a8dd-43b1-aa56-e0fd20a10353][Pressured Water Reactors (PWRs)]]. PWRs use the natural water under high pressure as coolant. During the operation, the water begins to be radioactive. A heat-exchanger is used to exchange the heat. The other source of water in the exchanger is inradioactive and will vapourize and drive the turbine and generate electricity.
+
+From PWRs, a variation came up in the US. They are the [[id:e9aecdd8-f0ab-4862-a457-d6a80039ca1f][Boiling Water Reactors]] (BWRs). The BWRs work at low pressure. They utilize directly the vapour generated from the coolant. Therefore, they have higher heat efficiency than PWRs.
+
+The PWRs and BWRs and some other reactors are also [[id:008dc6fc-584b-486a-94f5-e74897cb4b59][Lighter Water Reactors]] (LWRs), which is currently the dominating reactor over the world.
+
+The UK develops the Advanced Gas-cooled Reactor (AGRs). It has higher temperature and higher thermal efficiency.
+
+They are all reactors of Generation II: PWRs, BWRs, AGRs ...

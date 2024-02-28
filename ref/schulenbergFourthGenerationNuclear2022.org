@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bb844c28-cde7-4062-a2bd-014135d18365
+:ROAM_REFS: cite:schulenbergFourthGenerationNuclear2022
+:END:
+#+title: The fourth generation of nuclear reactors: Fundamentals, Types, and Benefits Explained
+#+FILETAGS: reading research 
+- tags :: export,important,nuclear,reading 
+* The fourth generation of nuclear reactors: Fundamentals, Types, and Benefits Explained
+:PROPERTIES:
+:Custom_ID: schulenbergFourthGenerationNuclear2022
+:URL: 
+:AUTHOR: Schulenberg, T.
+:NOTER_DOCUMENT: ~/org/mylib/pdf/schulenbergFourthGenerationNuclear2022.pdf
+:NOTER_PAGE: 28
+:END:

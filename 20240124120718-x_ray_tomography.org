@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f54c32e4-ad66-4df2-b129-7d98adc5677f
+:END:
+#+title: X-ray Tomography
+
+- Tomography is imaging by sections or sectioning that uses any kind of penetrating wave. 
+- [[https://upload.wikimedia.org/wikipedia/commons/2/25/TomographyPrinciple_Illustration.png]]

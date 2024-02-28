@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       93e38545-a2f7-47de-ac51-ad8ad6962aa6
+:END:
+#+title: Fissionable Material
+This means the material that can undergo nuclear fission when struck by thermal neutrons, no matter their energy-levels are high or low.
+
+E.g.: U-238, Pu-239

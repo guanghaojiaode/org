@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8b843821-0766-40f8-b863-ffe7c009c22d
+:END:
+#+title: Planck–Einstein Relation
+$E = h \cdot \gamma = \frac{hc}{\lambda}$

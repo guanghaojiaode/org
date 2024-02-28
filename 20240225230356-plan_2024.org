@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53c32a41-2435-4d9b-b970-36b6f2f69db8
+:END:
+#+title: Plan 2024
+#+TODO: TODO(t!) WAITING(w!) DONE(d!) CANCELED(c@)
+* DONE Send the TK doc to the secretary.
+CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 10:00>
+* DONE Anmeldungsbestätigung --> TF Bank
+CLOSED: [2024-02-26 Mon 11:27] SCHEDULED: <2024-02-26 Mon 11:00>
+* DONE Ask the Ausländerbehörde about my Verlängerungsdatum
+CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 09:00>
+- [ ] Then it is better to write to Micha.
+* HANGUP Coffee money
+SCHEDULED: <2024-05-01 Wed>
+The money is until 31.03.2024. I need to hand in money from May.  
+* CANCELED Call the Ausländerbehörde
+CLOSED: [2024-02-27 Tue 12:02] SCHEDULED: <2024-02-27 Tue 08:20>
+- State "CANCELED"   from "TODO"       [2024-02-27 Tue 12:02]
+I did not managed to call them. They were very busy. I sent an email to them and am waiting for their reply.
+* TODO Waiting for the Reply from Ausländerbehörde
+* TODO Ask My Hausmeister to Arrange My Flat 
+DEADLINE: <2024-03-03 Sun 12:00>

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       c936dd65-e215-4839-84e9-50b51b1e296a
+:ROAM_ALIASES: "Void Coefficient of Reactivity"
+:NOTER_DOCUMENT: mylib/pdf/lamarshIntroductionNuclearEngineering2001.pdf
+:END:
+#+title: Void Coefficient
+This coefficient describes the relationship between void fracion and the reactivity:
+\begin{equation}
+\alpha_v = \frac{d\rho}{dx}
+\end{equation}
+
+cite:[[id:405b8de2-8c46-4b27-a5de-137a3455a428][lamarshIntroductionNuclearEngineering2001]]
+
+For water reactors:
+  + Positive: void fraction increases --> reactivity increases --> void fraction increases again, this is an unstable loop.
+  + Negative: void fraction increases --> reactivity decreases --> void fraction decreases, this is a stable loop.
+
+Nowadays, for all  reactor to be licensed, the void coefficient should *always* be negative. In the most severe hazard in human history [[id:8fe4d95c-4dc7-4a1d-9d7d-1079e5dadcdc][Accident Chernobyl 1986]], the reactor was designed with a high positive Doppler coefficient.
+Additionally, the [[id:bb8c8454-383b-48db-9464-59805e3b2627][CANDU reactors]] were also desighed with a positive void coefficient. The [[id:14b046d3-4995-4be2-9a79-ba77f9730605][Fast Breeder Reactor]] uses lead or sodium as coolant, it also has a positive void coefficient. 
+
+For [[id:f8ed4d51-6490-4ba0-944b-7abe29a8f5d8][Sodium-Cooled Fast Reactor (SFR)]], it is more complex. There are two trade-off effects.
+
+Firstly, sodium doesn't moderate neutrons by absorbing neutrons. However, sodium interect with neutrons by scattering.
+
+For the high-energy neutrons, they interact with the sodium nucleus by [[id:ddd58597-7bde-43b4-a669-a7c24414ffd9][Inelastic Scattering]], which means this is a endothermal reaction. For the low-energy neutrons, they interact with the sodium nucleus by [[id:d59ea60c-97a5-4ec9-a5c4-fd831a1a3ba8][Elastic Scattering]]. Therefore, when the sodium void fraction increases, the sodium density decreases. Then, the neutrons with high energy can not be well removed. Thus, the neutrons becomes "harder" thus more energetic. And actually, neutrons at higher energy will produce more neutrons during the fission reaction. (This is indicated by $\eta$, which equals to the the emitted neutrons per inducing neutron in the fission. $\eta$ must higher than 1 to reach the critical reaction of the fission, and Uranium is the only one natural [[id:436fb988-ea1e-42b5-80b4-dedec97d7578][Fissile Material]], of which $\eta>1$.) This effect tends to lead the void coefficient positive.
+
+Secondly, the increase in the void fraction leads on the other hand to the neutron leakage. This means, the fuel receives less neutrons. This effect tend to lead the void coefficient negative. 
+
+Nevertheless, the neutron leakage is highly dependent on the location of the void. Void in the core: (almost) no leakage. Void around the wall: leakage --> negative void coefficient.
+
+All in all, the void efficient of the sodium is complex and need to be investigated based on different situations. A negative coefficient is needed, but apparently, it is not easily guaranteed as negative.

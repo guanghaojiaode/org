@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9bf80bd9-f397-4de1-bcc8-21108c40f9be
+:END:
+#+title: Doppler Effect
+

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ef6afc91-176f-4d92-9ba2-f62cfe1b204f
+:END:
+#+title: Computon Effect
+X or gamma-ray interects with matter --> energy lost and wavelength increase
+
+The interaction of a photon with an electron. A photon hit an electron and their momentums are changed. The photon lost its energy and its wavelength increases. The electron begins to move (, if it is still at the beginning).
+
+But, the mass of a photon is zero. How does it interact with the electron and change its momentum?
+
+The answer is that because of the relativity, the photo has momentum.

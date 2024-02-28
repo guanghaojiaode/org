@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       eadac617-b989-4540-8a1a-d6ba8b2772b6
+:END:
+#+title: Gas-Cooled Fast Reactor (GFR)
+

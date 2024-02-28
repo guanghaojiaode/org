@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6eb5d355-dbe5-4766-bf08-565a326447f1
+:END:
+#+title: Wave Function
+* Background
+[[id:16b39d2e-2226-4974-b287-151a2cf41c6c][Maxwell's Equations]]
+* The function
+This function is the basic function in [[id:2f32fc5f-2673-4253-a626-13e767444fa1][Quantum Mechanics]]
+* Physics
+[[id:4ed8294e-6f97-49c9-bdf0-3dff38569394][Light Polarization]]
+* Mathmeticas
+[[id:64e3dda7-20a9-4098-b66d-0f39955ddf6b][Fourier Transform]]
+[[id:b671a884-2100-47d6-ae20-bd0397016075][Euler's Formula]]

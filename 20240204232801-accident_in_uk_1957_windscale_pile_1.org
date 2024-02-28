@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bbc630ea-40e0-440b-a7c3-b66f5a637c0c
+:END:
+#+title: Accident in UK 1957 Windscale Pile 1
+At the beginning, the scientists has less knowlege to the degradation of the graphite under exposure of high flux neutrons.
+
+1. graphite degradation
+2. metallic uranium in the core overheated
+3. fresh air cooling turned up
+4. not noticing that some of the uranium and graphite were already alight
+5. blast furnace
+6. $CO_2$-cooling turned on but was unable to check the fire
+7. water-cooling turned on --> problematic, because the high temperature would be possible to chang the water into oxygen and hydrogen, which could lead to an explosion
+8. fortunatelly is was not exploded
+9. but still plenty of radioactive materials were released into the air

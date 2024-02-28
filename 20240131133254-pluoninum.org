@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8b79f121-15d6-4f4d-8e2e-8594c10fa1e8
+:END:
+#+title: Plutoninum (Pu)
+
+This is the heavist natural element. It is also a natural element, although it just exist very little in the nature. Most of it is produced by human. It is used in producing nuclear weapon and used in the [[id:14b046d3-4995-4be2-9a79-ba77f9730605][Fast Breeder Reactor]].

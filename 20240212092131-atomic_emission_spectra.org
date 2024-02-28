@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       305b40c8-41a1-4996-a113-f32a172f359c
+:END:
+#+title: Atomic Emission Spectra
+Every atom has a specific color signature.When an atom receives electromagnetic radiation, its electrons will change its [[id:c82dc3e9-7d08-4a6c-a436-2d0dcbab8fd1][Atomic Orbital]], for example being exited and jumps from the ground state to the exited state. A electron can be exited in many different ways, the [[id:94f8a5de-ea9c-4722-a532-a442012f2506][Glow Discharge]] is an example.
+
+Electrons at different orbitals are at different [[id:cfc1be16-fa33-4827-a1f2-338cfb9647d9][Energy Level]]s. The electrons have different and discrete energy ([[id:2f32fc5f-2673-4253-a626-13e767444fa1][Quantum Mechanics]]). During the change in orbital, it absorbs or emits energy. And this energy is in the form of photon.
+
+The [[id:802f86a3-3c31-483d-8e38-ea224a674b63][Exited State]] is mostly unstable. The neutrons absorb energy (photon) and move to an orbital at a higher energy level, and then shortly it moves back and emits energy (photon). 
+
+The electromagnetic spectrum is an example of a continous spectrum.
+[[file:images/spectra.png]]
+The spectrum can be shown through a prism.
+[[file:images/spectra_prism.png]]
+When light from a hydrogen gas discharge tube is passed through a prism, the light is split into four visible lines.

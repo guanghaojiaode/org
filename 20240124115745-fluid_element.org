@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       83ad9b27-0d4c-46d5-80fb-a89ce32da457
+:END:
+#+title: Fluid Element
+
+Ein Fluidelement repräsentiert die über das infinitesimale Volumen dV und das infinitesimale Zeitintervall dt gemittelte Bewegung der in dV enthaltenen Fluid-Moleküle.Ein Fluidelement repräsentiert die über das infinitesimale Volumen dV und das infinitesimale Zeitintervall dt gemittelte Bewegung der in dV enthaltenen Fluid-Moleküle.

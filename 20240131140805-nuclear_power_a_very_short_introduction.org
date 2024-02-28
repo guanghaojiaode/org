@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e91e6193-e2f2-4723-b51d-86b28a485a47
+:END:
+#+title: Nuclear Power: A Very Short Introduction
+#+filetags: :Books:
+
+[[id:c298b37d-1f1d-47fa-8e85-57daec6f844a][Nuclear Reactor Generations]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       54fcfb94-df84-44c8-a0be-9ea6eda7e15b
+:ROAM_REFS: cite:parsegianSeriesMonographsTextbooks
+:END:
+#+title: A Series of Monographs and Textbooks
+

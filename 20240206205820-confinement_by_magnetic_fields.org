@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c860f7a6-3d95-49cf-8fde-8a81afa95e40
+:END:
+#+title: Confinement by Magnetic Fields
+* Mechanism
+1. heat up the fuel --> plasma
+2. plasma moves in confinement
+3. continually heat the plasma until the fusion reaction
+
+* Types
+1. [[id:40015feb-c72d-434d-ae14-0c705ea44035][Tokamak]]
+2. [[id:661a116d-b111-46b2-94e5-65acc8adf144][Stellarator]]

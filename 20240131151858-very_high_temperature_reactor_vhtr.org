@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       af8aea8b-3bd2-43f7-9304-8f2c3f6a3805
+:END:
+#+title: Very High Temperature Reactor (VHTR)
+It generates actually a by-product $H_2$. This is a pebble-bed reactor.
+
+A large amount of pebbles form the core.
+
+In each pebble, there is graphite with fuel in it. The pebble is coated with ceramics.
+
+The inert gas is used.
+
+This kind of design is extremely flexible.
+
+VHTR actually concludes also the [[id:37ac686a-0e93-41f2-a1c8-444589db8127][Supercritical Water Cooled Reactor (SCWR)]], and other reactors using 

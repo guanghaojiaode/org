@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ab915809-5b52-4b14-aeaa-1f81401cf1ff
+:END:
+#+title: Nuclei
+The most stable nuclei: Fe. [[id:86b73ab0-f74b-4da2-87f2-78494e42217a][Most Stable Nuclei]]
+
+The nucleis heavier than Pb are all unstable.

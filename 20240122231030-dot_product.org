@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e9cc21e5-cd20-452e-bb93-721821e96991
+:END:
+#+title: Dot Product
+#+STARTUP: latexpreview
+- The product is a vector.
+
+[[file:images/umwandlung.png][Umwandlung]]

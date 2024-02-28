@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3437e5f1-67cc-46de-9971-46369004af79
+:END:
+#+title: Nabla Operator
+
+- $\nabla = \frac{\partial}{\partial x} + \frac{\partial}{\partial y} + \frac{\partial}{\partial z}$
+- relationship with [[id:5e4fd3af-0c74-49f3-9fff-e095ef89374b][Laplace Operator]]

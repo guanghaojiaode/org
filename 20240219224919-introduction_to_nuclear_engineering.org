@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       405b8de2-8c46-4b27-a5de-137a3455a428
+:ROAM_REFS: cite:lamarshIntroductionNuclearEngineering2001
+:NOTER_DOCUMENT: mylib/pdf/lamarshIntroductionNuclearEngineering2001.pdf
+:END:
+#+title: Introduction to nuclear engineering
+* The Void Coefficient
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+#+begin_quote
+The situation regarding the void coefficient in sodium-cooled fast reactors is more complex. Sodium does not absorb neutrons to any great extent, so the expulsion of coolant from the reactor due to the formation of voids has only a negligible effect on the overall absorption of neutrons in the system.
+
+However, sodium slows down neutrons by inelastic scattering at high energy and by elastic scattering at the lower end of the energy spectrum. The removal of sodium due to void formation reduces these moderating effects. As a result, the neutron spectrum in the reactor becomes harder—that is, more energetic.
+
+It is remembered from Chapter 4, however (see Fig. 4.2), that $\eta$, the average number of fission neutrons released per neutron absorbed in fuel, increases rapidly with incident neutron energy for all of the fissile nuclides at fast reactor energies. Thus, as a consequence of the formation of voids, the average value of $\eta$ goes up, and the reactivity increases. This tends to make $\alpha_v$ positive.
+#+end_quote

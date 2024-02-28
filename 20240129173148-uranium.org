@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a9bd8f0a-53f9-4597-8f8d-1ab69150f37c
+:END:
+#+title: Uranium
+
+* Existance
++ 99% (99.3%) --> U-238
++ 1% (0.7%) --> U-235
+* Reactions
+Common nuclear reaction: U-235 + neutron --> fission
+
+Uranium can absorb a neutron and produce [[id:8b79f121-15d6-4f4d-8e2e-8594c10fa1e8][Pluoninum]]: U-238 + 1 n --> U-239 --beta-decay-23.5min--> Np-239 --beta-decay-2.3565d--> Pu-239
+
+Actually only 1% of the total energy of the fuel is extract. Therefore, the recycling of the nuclear waste into fuel is highly valuable, see [[id:14b046d3-4995-4be2-9a79-ba77f9730605][Fast Breeder Reactor]].
+* Notice
+Only U-235 is a [[id:436fb988-ea1e-42b5-80b4-dedec97d7578][Fissile Material]] and exists in nature.

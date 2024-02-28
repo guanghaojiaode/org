@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1177104c-7e3b-45e6-b83e-f21f5cb9961e
+:END:
+#+title: Photoelectric Effect
+
+light hits metal --> electrons emmision
+
+

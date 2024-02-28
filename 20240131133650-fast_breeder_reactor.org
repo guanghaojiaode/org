@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       14b046d3-4995-4be2-9a79-ba77f9730605
+:END:
+#+title: Fast Breeder Reactor
+FBR: During operation, this kind of reactor breeds (generates) more fuel than it consumes. There's a breeder blanket surronding the fissile core. No moderator is needed. However, the temperature of the core is high and a good coolant is needed. All current coolant in the reactor is liquid metal, e.g. sodium, lead or...
+
+Actually most countries has stopped to develop FBRs. One reason is that there is less need of nuclear weapons. But this technology has inspired the development of the [[id:2469e339-c724-4f86-b520-00c64f850045][Nuclear Reactor Generation IV]].
+
+The fast breeder reactor uses the depleted nuclear waste as a form of energy and chang U to usable Pu:
+0.7% U-235 + 99.3% U-238 (see [[id:a9bd8f0a-53f9-4597-8f8d-1ab69150f37c][Uranium]]) --> Pu-239 + Pu-241 (see [[id:8b79f121-15d6-4f4d-8e2e-8594c10fa1e8][Plutoninum (Pu)]]) and other isotopes of Pu. The Pu-239 and Pu-241 undergo the same way as U-235 to produce heat, see the Uranium reaction in [[id:a9bd8f0a-53f9-4597-8f8d-1ab69150f37c][Uranium]].
+
+The in these kind of reactors, 75% of the energies in the natural uranium fuel can be used, while in the light water reactor this value is only 1%!

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       16df8af2-39a6-4b07-934b-0598b0ec0a9f
+:END:
+#+title: Radioactive Waste
+* Type
+- LLW (Low-Level-Waste)
+  + mainly not from the nuclear plant but from hospital and industries
+  + uranium tailings: it is very LLW but contains heavy metals
+- ILW (Intermediate-Level-Waste)
+  + fuel-rods cladding
+  + contaminated decommissioning material
+- HLW (High-Level-Waste)
+  + uranium
+  + fission products
+  + highly radioactive & thermally hot
+  + 12000 tonne per year

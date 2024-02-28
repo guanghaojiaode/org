@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       603efd14-b1bb-4f95-b02e-e97488467b99
+:END:
+#+title: Nuclear Cross Section
+Nuclear cross section of a nucleus describes the probability that a nuclear reaction occurs. Unit: barn. The nuclear cross section of uranium-235 for slow thermal neutrons is about 1000 barns. For fast neutrons, it is in the order of 1 barn.
+
+It is interesting that the thermal neutrons have higher nuclear cross section and interect more with the nucleus. 
+

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-02-26 Mon 15:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kick-Off-Meeting 23022024</title>
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Kick-Off-Meeting 23022024</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgea49385">1. <span class="done DONE">DONE</span> Meeting Content</a></li>
+<li><a href="#orge8f1348">2. <span class="todo DOING">DOING</span> 1 or 2 Pages</a></li>
+<li><a href="#org0414ce9">3. <span class="todo DOING">DOING</span> 1-Slide-PPT</a></li>
+<li><a href="#org285fac9">4. <span class="todo HANGUP">HANGUP</span> The Next Presentation</a></li>
+<li><a href="#org173e739">5. <span class="todo TODO">TODO</span> Technical Meeting</a>
+<ul>
+<li><a href="#org281a13c">5.1. Aim</a>
+<ul>
+<li><a href="#org0cf0192">5.1.1. Flow Velocity</a></li>
+<li><a href="#orgbf35956">5.1.2. The Parameters to be measured</a></li>
+<li><a href="#orgeacfd2d">5.1.3. Modification of the Existing Setup</a></li>
+</ul>
+</li>
+<li><a href="#org6445b8b">5.2. People</a></li>
+<li><a href="#org8686337">5.3. Requirements</a></li>
+</ul>
+</li>
+<li><a href="#orgbeb88ee">6. Current Plan</a>
+<ul>
+<li><a href="#org840b7bf">6.1. <span class="todo TODO">TODO</span> Simple Experiments</a></li>
+<li><a href="#orga1e1672">6.2. <span class="todo TODO">TODO</span> Literature review - Flow Velocity</a></li>
+<li><a href="#org766d181">6.3. <span class="todo TODO">TODO</span> Detailed Plan for all experiments in the Future</a></li>
+</ul>
+</li>
+<li><a href="#org495f7f6">7. Middle Future Plan</a></li>
+</ul>
+</div>
+</div>
+<p>
+There are a lot of things to do in the future.
+</p>
+
+<div id="outline-container-orgea49385" class="outline-2">
+<h2 id="orgea49385"><span class="section-number-2">1.</span> <span class="done DONE">DONE</span> Meeting Content</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>It is neutron spectrum that becomes harder, not neutrons. Neutrons have higher energy, this is the right and equal way to express it.</li>
+<li>We have tried to get into this story with physics, this is great.</li>
+<li>We have to begin the experiments earlier because it is assciated with a lot of people.</li>
+<li>Surface tension of the sodium is the most important feature comparing to water.</li>
+<li>We assume there are different bubble shapes in sodium and water, due to the different surface tension of sodium and water.</li>
+<li>One question is, we can do experiment with water, why do we need to do experiments with sodium?</li>
+<li>Actully the interection of the two bubbles in liquid metal is not well researched.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge8f1348" class="outline-2">
+<h2 id="orge8f1348"><span class="section-number-2">2.</span> <span class="todo DOING">DOING</span> 1 or 2 Pages</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>I need to prepare a small document of the motivation. Until now, I have researched something and to somewhat extent found my own story. I need to write down my own story (the motivation). I want to have</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0414ce9" class="outline-2">
+<h2 id="org0414ce9"><span class="section-number-2">3.</span> <span class="todo DOING">DOING</span> 1-Slide-PPT</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>I need to use 1 (or 2) slide(s) to show the information regarding the motivation in the 1 or 2 pages that I have written down.</li>
+<li>This slide should be able to be used in every presentation, helping people quickly get to the point!</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org285fac9" class="outline-2">
+<h2 id="org285fac9"><span class="section-number-2">4.</span> <span class="todo HANGUP">HANGUP</span> The Next Presentation</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>Find an image on Internet to show the fuel assembly in detail.</li>
+<li>Try to answer questions (I can not remember if this is the idea of Micha, but at least ideas of mine.):
+<ul class="org-ul">
+<li>How does bubble behave in the fuel assembly?</li>
+<li>Or even do bubbles enter the fuel assembly?</li>
+</ul></li>
+<li>The image can also be created by my self, in a way that is simple and easy to understand.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org173e739" class="outline-2">
+<h2 id="org173e739"><span class="section-number-2">5.</span> <span class="todo TODO">TODO</span> Technical Meeting</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org281a13c" class="outline-3">
+<h3 id="org281a13c"><span class="section-number-3">5.1.</span> Aim</h3>
+<div class="outline-text-3" id="text-5-1">
+</div>
+<div id="outline-container-org0cf0192" class="outline-4">
+<h4 id="org0cf0192"><span class="section-number-4">5.1.1.</span> Flow Velocity</h4>
+<div class="outline-text-4" id="text-5-1-1">
+<ul class="org-ul">
+<li>Is the velocity of the flow important or not?</li>
+<li>Before the meeting I need to figure it out, whether the experiments is meaningful or not. Because the two phase flow in our experiment has no flow velocity, while there is flow velocity in the real condition. I need to do Literature research</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgbf35956" class="outline-4">
+<h4 id="orgbf35956"><span class="section-number-4">5.1.2.</span> The Parameters to be measured</h4>
+<div class="outline-text-4" id="text-5-1-2">
+<ul class="org-ul">
+<li>Which problems do I want to investigate?
+<ul class="org-ul">
+<li>Complex bubble structure in fuel rods.</li>
+<li>Bubble behaviours in the fuel bundle. Or do they even enter the fuel bundle?</li>
+<li>How do they collapse?</li>
+<li>How do they coalescence with each other?</li>
+</ul></li>
+<li>More specific: Which parameters do I want to measure?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgeacfd2d" class="outline-4">
+<h4 id="orgeacfd2d"><span class="section-number-4">5.1.3.</span> Modification of the Existing Setup</h4>
+<div class="outline-text-4" id="text-5-1-3">
+<ul class="org-ul">
+<li>Talk about how can we modify the existing setup?</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org6445b8b" class="outline-3">
+<h3 id="org6445b8b"><span class="section-number-3">5.2.</span> People</h3>
+<div class="outline-text-3" id="text-5-2">
+<ul class="org-ul">
+<li>Frank
+<ul class="org-ul">
+<li>At first I need to write an email to Frank.</li>
+<li>Frank knows who will come.</li>
+<li>Ask Frank can he show me the setup so that I can have an impression of the setup.</li>
+</ul></li>
+<li>Matina</li>
+<li>Swan Ekert</li>
+<li>Thomas</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8686337" class="outline-3">
+<h3 id="org8686337"><span class="section-number-3">5.3.</span> Requirements</h3>
+<div class="outline-text-3" id="text-5-3">
+<ul class="org-ul">
+<li>I need to motivate the meeting, not to be motivated.</li>
+<li>I need to speak with them, I want/need to measure this and that&#x2026;</li>
+<li>I need to manage to introduce my story in 2 mins.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgbeb88ee" class="outline-2">
+<h2 id="orgbeb88ee"><span class="section-number-2">6.</span> Current Plan</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</li>
+<li>%% <b>These three things should be done togather!</b> %%</li>
+<li>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</li>
+</ul>
+</div>
+<div id="outline-container-org840b7bf" class="outline-3">
+<h3 id="org840b7bf"><span class="section-number-3">6.1.</span> <span class="todo TODO">TODO</span> Simple Experiments</h3>
+<div class="outline-text-3" id="text-6-1">
+<ul class="org-ul">
+<li>This is about the technical meeting above.</li>
+<li>I should analyse the experiment data.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga1e1672" class="outline-3">
+<h3 id="orga1e1672"><span class="section-number-3">6.2.</span> <span class="todo TODO">TODO</span> Literature review - Flow Velocity</h3>
+<div class="outline-text-3" id="text-6-2">
+<ul class="org-ul">
+<li>Is it an obstacle or not?</li>
+<li>Are my experiments meaningful or not?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org766d181" class="outline-3">
+<h3 id="org766d181"><span class="section-number-3">6.3.</span> <span class="todo TODO">TODO</span> Detailed Plan for all experiments in the Future</h3>
+<div class="outline-text-3" id="text-6-3">
+<ul class="org-ul">
+<li>Before summer vacation 06.2024</li>
+<li>Once our detailed plan is clear, the task of my PhD will be clear.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org495f7f6" class="outline-2">
+<h2 id="org495f7f6"><span class="section-number-2">7.</span> Middle Future Plan</h2>
+<div class="outline-text-2" id="text-7">
+<ul class="org-ul">
+<li>After the experiments are done, I should analyze the data and see if it is good or not.</li>
+<li>Do we need a pump in the future? This should be decided before 06.2024, so that it would not be too late.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2024-02-26 Mon 15:38</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

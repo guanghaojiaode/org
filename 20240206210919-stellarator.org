@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       661a116d-b111-46b2-94e5-65acc8adf144
+:END:
+#+title: Stellarator
+This is from the US.
+In the past it was not capable.
+Recently it has been developed again.

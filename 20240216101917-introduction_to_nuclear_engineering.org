@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       756a20ee-02ac-4497-a9b8-5af855a13904
+:END:
+#+title: Introduction to Nuclear Engineering
+#+filetags: :Books:
+* Elastic Scattering
+:PROPERTIES:
+:ID:       d59ea60c-97a5-4ec9-a5c4-fd831a1a3ba8
+:END:
+A neutron strikes a nucleus. The nucleus was almost at the ground state, after the strike, it remains still ground state.
+* Inelastic Scattering
+:PROPERTIES:
+:ID:       ddd58597-7bde-43b4-a669-a7c24414ffd9
+:END:
+A neutron strikes a nucleus. The energy was remained by the nucleus and it remains at the [[id:802f86a3-3c31-483d-8e38-ea224a674b63][Exited State]].

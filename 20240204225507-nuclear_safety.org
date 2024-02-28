@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4749d00a-f5d4-4575-a066-c4b3661e4cbb
+:END:
+#+title: Nuclear Safety
+
+* Our subjective assessment
+Generally, subjective assessment of people enlarges their fear to the unfamilier things. The outcome of a nuclear could be hazardous, but with adequate safety tratigies the risk can be reduced significantly. Therefore, one main aim of nuclear safety is to assess the risk of nuclear power properly and give citizens an rational understanding to the risk of nuclear safety.
+
+* [[id:e77e4d83-a610-4b35-a1e5-55af1d7506fa][Hazards of Nuclear Power]]
+
+* [[id:1b0b4c17-4874-4c5f-bdeb-fed1408a82b1][Safety Principles]]
+
+* [[id:44f32a28-e634-4ba3-9492-8c6d09ac33fd][Unit of Nuclear Safety]]
+
+* An assessment
+Actually there's no absolute criteria for the evaluation in nuclear safety, to make sure that this is absolutely "safe". But there are still some numbers that we can say this is theoretically enough safe. 
+
+Nuclear Power is not as horrible and dangerous
+
+
+cite: [[id:e91e6193-e2f2-4723-b51d-86b28a485a47][Nuclear Power: A Very Short Introduction]]

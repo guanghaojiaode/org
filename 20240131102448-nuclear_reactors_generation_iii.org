@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       853dab8d-3d66-4e9b-a937-a40d818a092b
+:NOTER_DOCUMENT: c:/Users/j8154/AppData/Roaming/org/mylib/pdf/chengSafetySodiumCooledFast2021a.pdf
+:END:
+#+title: Nuclear Reactors Generation III
+The Advanced Boiling Water Reactors (ABWRs) are the first kind of Generation III reactor in the world. There are also Advanced Pressured Water Reactors (APWRs) and other reactors:
+ - EPR (Evolutionary Power Reactor)
+ - AP1000 (Advanced Passive PWR)
+And actually these two types of reactors are regarded as Nuclear Reactors Generation III+. 
+
+It uses pump to circulate the fluid inside the reactor. This improves the cost and the thermal efficiency.

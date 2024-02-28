@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8126e0f-517c-40bd-ac2f-69b92e80af0f
+:END:
+#+title: Neutrino
+At the beginning, thescientists thought, in beta decays, an electron, a proton are emmited. However, a little mass was missing. Then a new partical was found: Neutrino. It is neutral and has a very little mass.
+
+The nuetrino are most penetrative radiation yet detected.
+
+There is also antineutrino. And actually the relationship is very complex.
+
+* TODO What is the emmision in the beta decay?

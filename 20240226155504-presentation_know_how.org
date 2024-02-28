@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       8d104130-a45a-43f7-bc53-b249eaccb26b
+:END:
+#+title: Presentation Know-How
+- General information
+	- Equations --> make them clear
+	- Do not derive equations in a presentation
+	- Do not pay much attention to the math, but only show the key things
+	- Duration: 15 min, 900 s
+	- 9-10 slides + 1 title page + 1 toc page
+- Structures
+	- Title slide **10s**
+	- Table of content **10s**
+		- Do not read it.
+		- Be a little specific.
+		- Just say: This is the content. I am going to show you these things. 
+	- Motivation **1min** --> This is not Introduction!
+		1. Background --> Be specific
+		2. Problems/Open questions (Subject) --> Be specific
+		- Often Problems: Too general
+			- e.g.: Global warming --> climate change --> my problems
+			- This above is too general! Be specific.
+	- Introduction **5~6min** (What is a good introduction?)
+		1. State of science & technology 
+		2. Derive my own objects --> to refer to my specific topic
+			- e.g.: In the research this is not well-researched, so I am working on ..., and will write ..., I need parameters A, B and ...
+			- Parameters, methodology
+			- Please don't say other people's work bad.
+	- Materials & Methods **3~4min**
+		- (My experimental and/or numerical environment)
+		- Materials: Machine and Hardware
+		- Methods: Software
+			- Methodological Structure
+			- Algorithms
+			- Just point out I use this and that, don't go into too much details. 
+	- Results & Discussion **5min**
+		- Recommendation: At first present the overview for 1 slide and do not discuss it.
+		- Go to 1 or 2 major interesting findings and make it specific.
+		- Do not go in too much details. Make it more interesting.
+		- But do not forget our object.
+	- Conclusions **less than 1min**
+		- What are the key findings of my results?
+		- There also can be improof.
+		- Who could use our results?
+		- Have I gone into the right/wrong way?
+		- Guide the conclusions according to the hypothesis
+			- Actually the hypothesis is more for the natural science.
+			- Can we answer Yes or No?
+			- For example
+				- Hypothesis: The light velocity in the vacuum does not change.
+				- Explanations:
+					- 1. ...
+					- 2. ...
+				- To prove and answer --> Begin of the work
+					- exp 1.
+					- exp 2.
+					- ...
+				-  Proof/improof

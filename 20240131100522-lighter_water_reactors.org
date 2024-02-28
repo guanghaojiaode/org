@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       008dc6fc-584b-486a-94f5-e74897cb4b59
+:END:
+#+title: Lighter Water Reactors
+This is currently the dominating reactor over the world.

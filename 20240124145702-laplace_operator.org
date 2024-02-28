@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5e4fd3af-0c74-49f3-9fff-e095ef89374b
+:END:
+#+title: Laplace Operator
+- $\Delta= \frac{\partial^2}{\partial^2 x} + \frac{\partial^2}{\partial^2 y} + \frac{\partial^2}{\partial^2 z}$
+  relationship with [[id:3437e5f1-67cc-46de-9971-46369004af79][Nabla Operator]]
+- $\nabla^2 = \nabla \cdot \nabla = \Delta$
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3b454634-8968-44e5-bef4-3f614fab9dda
+:END:
+#+title: Motivation of My Topic
+* References:
+- [[id:4cefd664-045a-4e12-a946-426a9db541b6][tommasiValidationSodiumVoid2010]]
+- 
+* Vertical: The very general history of the SFR
+- Why its study has begann?
+- Why its study has stopped?
+- Why its study has begann again?
+* Parallel: The comparasion of the reactors among the other reactors ([[id:2469e339-c724-4f86-b520-00c64f850045][Nuclear Reactor Generation IV]]).
+* Motivation of two phase flow study in SFR
+** Two phase flow foremd in accidents
+- two-phase flows during leakage accidents
+- boiling processes in the reactor core
+- phase transitions in passive decay heat removal systems
+* Motivation of two phase flow study in LFR
+

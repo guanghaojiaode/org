@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3ba2a72d-65b3-4eca-9a6e-b192b9be2c46
+:END:
+#+title: X-ray Imaging
+
+[[id:f54c32e4-ad66-4df2-b129-7d98adc5677f][X-ray Tomography]]

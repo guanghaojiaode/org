@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6327f42b-fd13-4f01-a27c-e08d3732c395
+:END:
+#+title: Alpha Ray
+

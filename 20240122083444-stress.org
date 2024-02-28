@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       f22f47cc-aaa3-40a1-84c2-02a9f1013df0
+:END:
+#+title: stress

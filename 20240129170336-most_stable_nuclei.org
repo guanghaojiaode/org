@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       86b73ab0-f74b-4da2-87f2-78494e42217a
+:END:
+#+title: Most Stable Nuclei
+It is Fe. But Why?
+
+* TODO Why Fe is the most stable nuclei?
+

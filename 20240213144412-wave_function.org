@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       53b88afc-381f-4753-88b1-f615de1df9e4
+:END:
+#+title: Wave Function

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       065c15be-461b-4c57-8843-a835f2c49af5
+:END:
+#+title: Divergence
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2469e339-c724-4f86-b520-00c64f850045
+:END:
+#+title: Nuclear Reactor Generation IV
+The reactors of Generation IV contains generally [[id:af8aea8b-3bd2-43f7-9304-8f2c3f6a3805][Very High Temperature Reactor (VHTR)]] and [[id:a992f50f-8fb3-4537-9cb4-14461aff017e][Fast Reactor (FR)]]. There are also [[id:25404e63-141a-44f6-ada4-b483f774e2ab][Molten Salt Reactor (MSR)]] and [[id:37ac686a-0e93-41f2-a1c8-444589db8127][Supercritical Water Cooled Reactor (SCWR).]]
+
+Why Generation IV?
+1. Inherently safe
+2. Retention of the fuel in the core --> Prevent from nuclear weapons proliferation
+3. Higher operating temperature (typically 850-1000 °C) --> higher thermal efficiency (efficiency of the thermal cycle: 45-50%)
+4. [[id:a5f52420-2cdf-4eee-9cf9-056e34c12c2e][Thorium]]-Uranium cycle --> Thorium has more reserve than Uranium.
+   (Cite: Nuclear Power: A very short introduction)
+   
+5. Public perception concerns
+6. minimize and manage the nuclear waste
+   (Cite: Nuclear Energy, Nicholas Tsoulfanidis, Page 177)
+
+   

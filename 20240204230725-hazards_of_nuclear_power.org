@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       e77e4d83-a610-4b35-a1e5-55af1d7506fa
+:ROAM_ALIASES: "Nuclear Accidents"
+:END:
+#+title: Hazards of Nuclear Power
+* Source of the hazard
+There are large amount of rocks to be processed. The mining is operated generally in open pit mines. The workers should wear face masks all the time. The workers will unavoidably inhale the dust. The accumulation of the dust in their body leads to serious illness.
+
+Some uranium is deep-minded. It is more problematic. The decay of uranium is alpha emitting decay. In this process, the radioactive gas radon-222 will be generated. The radon-222 will accummulate under ground and can be hazardous when mining without ventilator.
+
+During the World War II, human lack of understanding to the danger of the radioactivity. There were many incorrect usage or handling with radioactive materials. 
+
+Some terrorists may also gathering radioactive materials and make bombs.
+
+Explosion accident --> radioactive material in the air, water and soil.
+
+Radioactive materials --> water --> animal --> human got radioactive I or St, which mimiks the normal I or St --> cancer
+
+
+
+* Some Accidents
++ [[id:bbc630ea-40e0-440b-a7c3-b66f5a637c0c][Accident in UK 1957 Windscale Pile 1]]
++ [[id:07829df0-7048-4eea-8b09-a4d7ab20eb51][Accident Tokyo Electrical Power Company's Kashiwazaki-Kariwa Nuclear Power Station]]
++ [[id:2d8b1df6-8479-4aa4-8b69-6a5cc71b0fa4][Accident Hamaoka Plant 2009]]
++ [[id:371ec301-6b12-404c-b31e-f6d81996fee9][Accident Three Miles Island 1979]]
++ [[id:8fe4d95c-4dc7-4a1d-9d7d-1079e5dadcdc][Accident Chernobyl 1986]]
++ [[id:195ad98f-60c2-413b-affe-41064db62e23][Accident Fukushima 2011]]
+
+* Notice
+There is not so much fuel in a nuclear plant, it is under the weapon-grade.

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       2fe9e679-340f-4353-ae07-ccf75657e42f
+:ROAM_REFS: cite:tommasiValidationSodiumVoid2010
+:END:
+#+FILETAGS: reading research 
+- tags :: ERANOS-2,JEFF-3.1,MASURCA,Sodium void,TRIPOLI-4,Validation 
+#+FILETAGS: reading research 
+- tags :: ERANOS-2,important,JEFF-3.1,MASURCA,Sodium void,TRIPOLI-4,Validation 
+* Validation of the sodium void reactivity effect prediction using JEFF-3.1 nuclear data
+:PROPERTIES:
+:Custom_ID: tommasiValidationSodiumVoid2010
+:URL: 
+:AUTHOR: Tommasi, J., Archier, P., & Ruggieri, J. M.
+:NOTER_DOCUMENT: ~/org/mylib/pdf/tommasiValidationSodiumVoid2010.pdf
+:NOTER_PAGE:
+:END:
+* Validation of the sodium void reactivity effect prediction using JEFF-3.1 nuclear data
+:PROPERTIES:
+:Custom_ID: tommasiValidationSodiumVoid2010
+:URL: 
+:AUTHOR: Tommasi, J., Archier, P., & Ruggieri, J. M.
+:NOTER_DOCUMENT: ~/org/mylib/pdf/tommasiValidationSodiumVoid2010.pdf
+:NOTER_PAGE:
+:END:

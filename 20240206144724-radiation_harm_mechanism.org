@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3adbd6b9-6e2c-471c-9340-763192ee7b9f
+:END:
+#+title: Radiation Harm Mechanism
+The radiation with engough high energy could ionise the atoms to ions. The ionization is the process that the electrons are split out from the nuclei and an atom becomes a positive nuclei and electron(s). The cells of creatures are built up with atoms. The ionization of the atoms in creatures could lead to cancer.

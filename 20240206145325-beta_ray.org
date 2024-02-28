@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       92689def-4574-4c31-b212-efe665175706
+:END:
+#+title: Beta Ray
+Beta ray is actually electrons.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c420c16b-4a34-4738-990f-b55f0ce31b30
+:NOTER_DOCUMENT: mylib/pdf/kunduFluidMechanics2016.pdf
+:END:
+#+title: Radioactive Decay
+The radioactive decay of an [[id:b005aca0-4e81-4c8f-883e-462d7bec4710][Isotope]] is unpredictable and is random. But for many isotopes an average half-life of it can be measured.
+
+The neutron-induced decay of [[id:a9bd8f0a-53f9-4597-8f8d-1ab69150f37c][Uranium]] is different: It does not simply emit energy and small particles like some other nucleis, but it will be splitted into different big parts.
+
+cite: [[id:e91e6193-e2f2-4723-b51d-86b28a485a47][Nuclear Power: A Very Short Introduction]]
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3ad73744-75f0-4551-8bab-2781d86d1f19
+:END:
+#+title: Lead-Cooled Fast Reactor (LFR)
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       16b39d2e-2226-4974-b287-151a2cf41c6c
+:END:
+#+title: Maxwell's Equations
+* Mathmatics
+[[id:065c15be-461b-4c57-8843-a835f2c49af5][Divergence]]
+[[id:f9f0f00e-f323-46a8-8e15-dab5d79c9193][Curl]]

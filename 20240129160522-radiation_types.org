@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5348abd3-3870-468a-bf02-c0b6978f3bb1
+:END:
+#+title: Radiation Types
+There are three types of radiation.
++ [[id:92689def-4574-4c31-b212-efe665175706][Beta Ray]] $\beta$
+  * negative electrons
++ [[id:d5d30aae-8b2d-4c66-86ff-f412ea70e90b][Gamma Ray]] $\gamma$
+  * neutral electromagnetic radiation
++ [[id:6327f42b-fd13-4f01-a27c-e08d3732c395][Alpha Ray]] $\alpha$
+  * positive He-4 2+
+  * very similar to the X-ray but with different frequency. Gamma ray has higher frequency.

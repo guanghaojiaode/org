@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       81500a64-9b4c-4adc-aa27-29f9c2dd43e4
+:END:
+#+title: Advanced Passive PWR (AP1000)
+It relies on gravity and natural circulation rather than the pump. It needs less time to be build. It is equipped also with the passive safety system. And the prodction of waste is also much less, compared to the PWRs.

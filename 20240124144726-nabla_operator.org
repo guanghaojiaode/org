@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e08f9337-6d62-44c9-a1d9-cf0e4352082b
+:END:
+#+title: Nabla Operator
+
+- $\nabla = \frac{\partial}{\partial x} + \frac{\partial}{\partial y} + \frac{\partial}{\partial z}$
+- relationship with Laplace Operator:
+  - $\nabla^2 = \nabla \cdot \nabla = \Delta$

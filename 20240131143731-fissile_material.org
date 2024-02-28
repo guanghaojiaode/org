@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       436fb988-ea1e-42b5-80b4-dedec97d7578
+:END:
+#+title: Fissile Material
+Fissile Material is a subset of [[id:93e38545-a2f7-47de-ac51-ad8ad6962aa6][Fissionable Material]].
+
+It specifies the material that can undergo nuclear fission when struck by low-energy thermal neutrons.
+
+E.g.: U-235, Pu-239

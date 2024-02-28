@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       af897d90-8541-4b8b-8b3d-affed4192540
+:END:
+#+title: Advanced CANDU Reactor (ACR)
+CANDU PHWR + PWR
+Never bin built.
+The [[id:c936dd65-e215-4839-84e9-50b51b1e296a][Void Coefficient]] is negative.

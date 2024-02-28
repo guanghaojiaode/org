@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       13e46395-7664-4775-890c-1d6260832d49
+:END:
+#+title: Nuclear Reactor Generation III PLUS
+The generation III+ reactors consist of two reactors: EPR and AP1000.
+
+[[id:d7f471b4-d7df-4aa5-9239-d487705db9bb][Evolutionary Power Reactor (EPR)]]
+
+[[id:81500a64-9b4c-4adc-aa27-29f9c2dd43e4][Advanced Passive PWR (AP1000)]]
+
+[[id:af897d90-8541-4b8b-8b3d-affed4192540][Advanced CANDU Reactor (ACR)]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bd7fe11f-6c72-49dd-8500-48bd00658564
+:ROAM_REFS: cite:wakabayashiIntroductionNuclearReactor2023
+:END:
+#+title: Introduction to Nuclear Reactor Experiments

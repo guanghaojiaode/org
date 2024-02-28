@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2f072eef-339f-44e5-874b-9017d07f50ee
+:END:
+#+title: Fluid Mechanics
+
+[[id:83ad9b27-0d4c-46d5-80fb-a89ce32da457][Fluid Element]]
+
+[[id:ccb64dc8-11ce-43d8-a5ea-1bc875797435][Feldgröße]]
+
+[[id:29e27ba0-97c5-41bf-9a9d-1847e6709f91][Navier-Stokes-Gleichungen]]
+
+[[id:e08f9337-6d62-44c9-a1d9-cf0e4352082b][Nabla Operator]]
+
+[[id:8a6b8082-5002-4d5d-abea-c08c2cfefde6][Laplace Operator]]

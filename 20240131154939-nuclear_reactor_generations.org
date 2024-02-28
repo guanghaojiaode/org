@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c298b37d-1f1d-47fa-8e85-57daec6f844a
+:END:
+#+title: Nuclear Reactor Generations
+
+[[file:images/nuclear_reactor_generations.png]]
+
+[[id:ca61eb8c-96af-496b-8d64-465e0b5e7f71][Nuclear Reactor Generation I]]
+
+[[id:55edbd59-0105-4e1d-805f-b6c3138de93d][Nuclear Reactor Generation II]]
+
+[[id:853dab8d-3d66-4e9b-a937-a40d818a092b][Nuclear Reactors Generation III]]
+
+[[id:13e46395-7664-4775-890c-1d6260832d49][Nuclear Reactor Generation III PlUS]]
+
+[[id:2469e339-c724-4f86-b520-00c64f850045][Nuclear Reactor Generation IV]]
+
+

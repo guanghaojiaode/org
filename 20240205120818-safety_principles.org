@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       1b0b4c17-4874-4c5f-bdeb-fed1408a82b1
+:END:
+#+title: Safety Principles
+* Fail-Safe technology
+When the reactor runs outside its designed parameters, it shut itself down automatically.
+
+Two severe hazard in human history has reminded us that every nuclear power plant should and must have this technology:
+- [[id:371ec301-6b12-404c-b31e-f6d81996fee9][Accident Three Miles Island 1979]] (the hazard was prevented by the Fail-Safe technology)
+- [[id:8fe4d95c-4dc7-4a1d-9d7d-1079e5dadcdc][Accident Chernobyl 1986]] (lack of Fail-Safe technology)
+
+The nuclear hazards could be completely avoided, if the fail-safe technologies were employed. Human is unstable, and the nuclear power plant can only be licensed for having fail-safe technologies.

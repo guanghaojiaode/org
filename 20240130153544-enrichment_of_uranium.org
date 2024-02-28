@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2be015b2-3d14-4219-94fb-2bb555a3cabf
+:END:
+#+title: Enrichment of Uranium
+
+The Enrichment of Uranium today is done by enriching Uranium in the high-speed centrifuges.
+
+In the enrichment facility, there are plenty of rotating cylinders. The uranium is in the form of gaseous $UF_6$. The centrifuge force separate the U-238 and U-235. U-238 is thrown to the wall and U-235 is enriched in the center.
+

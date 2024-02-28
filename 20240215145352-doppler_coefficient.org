@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3dc4bd2a-d98a-4900-a77b-c37026a363e7
+:END:
+#+title: Doppler Coefficient
+
+Doppler coefficient (DTC, FTC, fuel temperature coefficient) is defined as the change in reactivity per degree change in the fuel temperature. This is in reactors *always* a negative value.
+
+\begin{equation}
+\alpha_f = \frac{d\rho}{dT_f}
+\end{equation}
+
+This is one of the most significant coefficient for nuclear safety. It reflects the  reactor stabibity simutaneously. It is faster than the [[id:b5eaa5f3-0e1f-4179-b530-8a5bf7ad9856][Moderator Temperature Coefficient (MTC)]].
+
+A negative DTC and MTC ensure the a stable power operation.
+
+The change in reactivity due to the change in the fuel temperature is called the doppler defect.
+
+\begin{equation}
+d\rho = \alpha \cdot dT
+\end{equation}

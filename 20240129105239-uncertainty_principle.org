@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bf431ef0-2d37-44a8-8f5d-ec08ff4cccae
+:END:
+#+title: Uncertainty Principle
+The position and the momentum of a particle can never be determined precisely at the same time.
+
+Heisenberg has said: If you want to measure one precisely, the other one will be definitely disturbed. When we observe a system, it is determined to be alterd!
+
+However, this is not convinced:
+
+- He did not point out how to measure the momentum of a particle.
+- The experiment has not been done to convince it.
+
+  Link to: [[id:2f32fc5f-2673-4253-a626-13e767444fa1][Quantum Mechanics]]

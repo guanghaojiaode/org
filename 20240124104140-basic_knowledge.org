@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5ac89c31-0b79-4834-93d6-29326e1750f0
+
+:END:
+#+title: Basic Knowledge
+
+[[id:7659cc9d-394d-4e71-a243-918ce74101dd][Nuclear Reactor]]
+
+[[id:2f072eef-339f-44e5-874b-9017d07f50ee][Fluid Mechanics]]
+
+[[id:cfb7e3dd-da26-4a3d-8ece-1d2202e5c276][Linear Algebra]]
+
+[[id:3ba2a72d-65b3-4eca-9a6e-b192b9be2c46][X-ray Imaging]]
+
+

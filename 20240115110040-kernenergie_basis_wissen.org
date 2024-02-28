@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1817605d-f427-4cd1-957a-b87d4664470f
+:END:
+#+title: kernenergie_basis_wissen
+
+* Kernenergie_basis_wissen
+** Das Atom
+*** Definationen
+- Proton $\rightarrow$ H, He, Li...
+- Neutron $\rightarrow$ H-1, H-2, H-3...
+*** Kräfte
+- $F_{Kern}$
+- $F_{El}$
+*** Umwandlung von Mass und Energie
+- $E = mc^2$
+** Kernumwandlungen und Radioaktivität
+*** Zerfälle
+- $\Alpha$ Zerfall
+- $\Beta$ Zerfall
+- $\Gamma$ Zerfall
+*** Halbwertzeit
+*** Aktvität
+- Aktvität = (Anzahl der Kernumwandlungen)/Zeit
+*** Das Wesen der Energie
+- Kernenergie $\rightarrow$ Brennelement $\rightarrow$ Wärmeenergie $\rightarrow$ Reaktordruckgefäß $\rightarrow$ potenzielle Energie $\rightarrow$ Turbine $\rightarrow$ Bewegungsenergie $\rightarrow$ Generator $\rightarrow$ elektrische Energie

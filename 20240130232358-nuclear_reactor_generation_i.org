@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ca61eb8c-96af-496b-8d64-465e0b5e7f71
+:END:
+#+title: Nuclear Reactor Generation I
+It is very interesting that most of the first generation of nuclear reactors are incorporated with production of Platinum. This is used for the weapons. But when a peaceful world came, the production of Platinum are shut down. However, The producted Platinum can be used for modern reactors. Therefore, the nuclear reactors of generation 1 are already obsolete.
+
+

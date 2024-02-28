@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c7567687-1625-4682-804f-497b3c1d6aea
+:END:
+#+title: Nuclear Fuel Reprocessing
+* Why should we reprocess the waste?
+- Actually we just use only a little bit energy of the total energy in the fuel.
+- The storage of the [[id:16df8af2-39a6-4b07-934b-0598b0ec0a9f][Radioactive Waste]] is hard.
+- So that we need to utilize the fuel as much as possible.
+* Method
+- One typical method is PUREX Process (Plutonium and Uranium Recovery by extraction).
+- Other methods:
+  - UREX
+  - TRUEX
+  - SANEX
+
+cite: [[id:e91e6193-e2f2-4723-b51d-86b28a485a47][Nuclear Power: A Very Short Introduction]]
+    

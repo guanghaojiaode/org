@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       afd159b6-0de3-4e61-84ad-a54bba227b41
+:END:
+#+title: Confinement by Inertial Bombardment
+1. laser --> droplet of the fuel: H-2 and H-3.
+2. plasma at the surface layer and bombardment
+3. pressure into the inside --> chain reaction
+4. fusion
+

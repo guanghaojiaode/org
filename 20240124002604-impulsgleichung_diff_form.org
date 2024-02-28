@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       43e59262-2961-4946-a7ac-2de21031e758
+:END:
+#+title: Impulsgleichung diff form
+
+[[file:images/umwandlung.png][Umwandlung]]

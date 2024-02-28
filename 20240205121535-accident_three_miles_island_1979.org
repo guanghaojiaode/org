@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       371ec301-6b12-404c-b31e-f6d81996fee9
+:END:
+#+title: Accident Three Miles Island 1979
+1. the main pump of the cooling water stopped
+2. the backup water pump could not be opened (the worker turned off the pump during a fixing routine)
+3. core temperature rised and vapour came out
+4. the emergency water cooling system was opened
+5. the operator read the water level falsely and shut the emergency water supply down
+6. core meltdown
+7. gas leackage
+8. an explosion was about to occour but didn't
+
+   This accident was prevented by some Fail-Safe technologies. For exmaple the containment building was essential for preventing the accident changing into a hazard.
+
+   The main reason of this accident is mainly due to the false operation of the workers. If they could commission the plant before the new year, they will get the tax-free for 1 year. So the plant was rushed into operation. The stuffs are not properly trained. 

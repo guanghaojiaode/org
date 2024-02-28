@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5d7f3a1a-1622-4e43-b60e-90e487684cc4
+:END:
+#+title: Electron Volt
+Because the mass of the electron is too small, the mass of an electron is often expressed in the unit of MeV.

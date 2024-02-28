@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0372c83f-1e21-45d8-b534-5a6d8035ebf9
+:END:
+#+title: Nuclear Fusion
+Nuclear Fusion can be used to produce Fusion Weapon, which is a bad invention of human being and doesn't require containment and the [[id:5d6c7c2a-a160-4b67-9e6b-9747bb98c75a][Fusion Power Plant]], for which the containment is essential.
+
+If nuclear fusion power plant is realized, it will be clean and safe, and the energy will be in huge amount (regarded as endless for human being).
+
+[[id:f49299e2-d143-4efd-beba-af82a495dc22][ITER]]
+
+1. Begin from cold.
+2. The neutrons trigger the initial chain reaction.
+3. The hydrogen isotopes will be heated by the reaction heat from the chain reaction. The heat comes from the binding energy.
+4. The temperature keeps rising, until the hydrogen isotopes move super fast and have the ability to overcome the repulsion of the other isotopes. The repulsion between isotopes comes from their electrons.
+5. The neutorns are splitted apart from the nucleis and this state of matter is called "a plasma".
+6. The temperature higher than the center of the sun is required. And the plasma has high density.
+7. Problem: How to contain a plasma?
+8. Anything touches the plasma will lead to instant melting or loss of heat of the plasma.
+9. A containment system is needed. There are two options:
+   + [[id:c860f7a6-3d95-49cf-8fde-8a81afa95e40][Confinement by Magnetic Fields]]
+   + [[id:afd159b6-0de3-4e61-84ad-a54bba227b41][Confinement by Inertial Bombardment]]

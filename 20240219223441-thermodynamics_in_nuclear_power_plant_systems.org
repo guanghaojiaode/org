@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6e3d81ae-140a-45cc-9167-e4b6885f5183
+:ROAM_REFS: cite:zohuriThermodynamicsNuclearPower2019
+:END:
+#+title: Thermodynamics in Nuclear Power Plant Systems
+

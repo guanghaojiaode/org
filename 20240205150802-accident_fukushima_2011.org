@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       195ad98f-60c2-413b-affe-41064db62e23
+:END:
+#+title: Accident Fukushima 2011
+1. BWR
+2. The accident that has the same level with Chernobyl.
+3. Induced by earthquake and tsunami.
+4. Complete core meltdown.
+5. Therefore, although there were the fail-safe technologies, the risk was still there.
+6. Earthquake --> Tsunami --> The components of the water supply destroyed --> core temperature rose --> core meltdown --> hydrogen explosion
+7. The plant was developed with proper safety strategies and there could be no suggestions regarding the operation.
+8. The only thing out of consideration was a simultaneous tsunami strike. 

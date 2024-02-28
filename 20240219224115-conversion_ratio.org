@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bbcd0b65-0628-478d-8f50-8ba1affef81a
+:END:
+#+title: Conversion Ratio
+CR > 1 Breeder
+CR = 1 Converter
+CR < 1 Burner

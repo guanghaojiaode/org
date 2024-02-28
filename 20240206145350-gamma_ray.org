@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d5d30aae-8b2d-4c66-86ff-f412ea70e90b
+:END:
+#+title: Gamma Ray
+
