@@ -6,3 +6,16 @@ Nuclear cross section of a nucleus describes the probability that a nuclear reac
 
 It is interesting that the thermal neutrons have higher nuclear cross section and interect more with the nucleus. 
 
+cite: Nil
+-----
+
+Nuclear cross section serves as the effective target area for the collision of the particle and the nucleus. In reality there is no such cross section.
+
+\begin{equation}
+\sigma = \frac{R}{I}
+\end{equation}
+
+$R$: number of the nuclear reaction per second.
+$I$: number of the collisions between the particles and the slab per unit time per unit area.
+
+cite: [[https://www.youtube.com/watch?v=yGqaUfdQAck][Nuclear Cross Section]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b24dde29-0d3f-4fc5-8a60-1d2f14d0b391
+:END:
+#+title: Report: One or Two Pages of the Motivation
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+date: <2024-02-28 Wed>
+#+author:Guanghao Jiao
+#+email: jiao73@hzdr.de
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.2 (Org mode 9.6.15)
+#+cite_export:
+
+* Introduction
+In 1951, the first breeder reactor was built up. In 1960s and 1970s, several SFRs were built up. However, due to reasons for example some accidents in SFRs, the sucess of the LWRs and the illusion of the edequate fuel, the development of the SFRs was stopped since late 1980s.
+
+In 21th century, with the ongoing global warming and the increase in the [[id:16df8af2-39a6-4b07-934b-0598b0ec0a9f][radioactive waste]] produced by the LWRs, the R&D on the [[id:2469e339-c724-4f86-b520-00c64f850045][nuclear reactor generation IV]]
