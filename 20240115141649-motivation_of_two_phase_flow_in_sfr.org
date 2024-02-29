@@ -30,15 +30,15 @@ Because it has such advantages:
  2.
  3.
 
-But these disadvantages need to be overcomed:
+But these disadvantages need to be overcome:
  1.
  2.
  3.
 
 * Motivation
-One of the main aim of R&D of the Gen. IV reactors is the satety of the reactors. The positive void effect of SFR is one of the safety problems. The increase of the void fraction leads to the increase in reactivity. Although it only lead to safety problems at very rare (almost impossible) accident, it is still posibble. Additionally, it reduces the efficiency of the usage of the fuel.
+One of the main aims of R&D of the Gen. IV reactors is the safety of the reactors. The positive void effect of SFR is one of the safety problems. The increase of the void fraction leads to the increase in reactivity. Although it only lead to safety problems in very rare (almost impossible) accident, it is still posibble. Additionally, it reduces the efficiency of the usage of the fuel.
 
-To solve this problem, on the one hand, researchers has spend much effort on the design of the reactor structure to reduce the sodium void effet (coefficient). (For example, strategies: 1, 2, 3.) Toshiba has already invented a kind of the modular SFR reactor, see XX. On the other hand, researchers are working on the study on the two phase flow in liquid metal. Because, the void coefficient is dependent not only on the structure, but also the bubble behaviours in the reactor. For example, the CFD simulation is based on both of the understanding on the to phase flow behaviours in the liquid metal and the structure of the reactor. The two are linked as a whole.
+To solve this problem, on the one hand, researchers has spend much effort on the design of the reactor structure to reduce the sodium void effet (coefficient). (For example, strategies: 1, 2, 3.) Toshiba has already invented a kind of the modular SFR reactor, see XX. On the other hand, researchers are working on the study on the two phase flow in liquid metal. Because, the void coefficient is dependent not only on the structure, but also the bubble behaviours in the reactor. For example, the CFD simulation is based on both of the understanding on the two phase flow behaviours in the liquid metal and the structure of the reactor. The two are linked as a whole.
 
 Based on this background, the study on the liquid metal begins.
 

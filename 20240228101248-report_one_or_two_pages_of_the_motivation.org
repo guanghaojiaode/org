@@ -14,8 +14,12 @@
 #+exclude_tags: noexport
 #+creator: Emacs 29.2 (Org mode 9.6.15)
 #+cite_export:
+#+BIBLIOGRAPHY: c:/Users/j8154/AppData/Roaming/org/mylib/bib/mylib.bib
+
 
 * Introduction
-In 1951, the first breeder reactor was built up. In 1960s and 1970s, several SFRs were built up. However, due to reasons for example some accidents in SFRs, the sucess of the LWRs and the illusion of the edequate fuel, the development of the SFRs was stopped since late 1980s.
+In 1951, the first breeder reactor was built. In the 1960s and 1970s, several SFRs were built. However, due to reasons for example some accidents in SFRs, the success of the LWRs, and the illusion of adequate fuel, the development of the SFRs was stopped since the late 1980s.
 
-In 21th century, with the ongoing global warming and the increase in the [[id:16df8af2-39a6-4b07-934b-0598b0ec0a9f][radioactive waste]] produced by the LWRs, the R&D on the [[id:2469e339-c724-4f86-b520-00c64f850045][nuclear reactor generation IV]]
+In the 21st century, with the ongoing global warming and the increase in the [[id:16df8af2-39a6-4b07-934b-0598b0ec0a9f][radioactive waste]] produced by the LWRs, the R&D on the [[id:2469e339-c724-4f86-b520-00c64f850045][generation IV nuclear reactors]] reemerged, aiming at the development of revolutionary reactors with inherent safety features, efficient utilization of the fuel and better management of the radioactive waste. Among them, the sodium-cooled fast reactor (SFR) is the most promising one, due to its long operation experience and excellent thermal-physics performance of sodium \cite{[[id:8dc79c35-2019-4b2a-b9bc-08bbe98826b6][TechnologyRoadmapUpdate]]}.
+
+
