@@ -3,3 +3,4 @@
 :END:
 #+title: Lead-Cooled Fast Reactor (LFR)
 
+[[id:fad33a09-aefc-477c-a767-6cc192b588ea][tarantinoOverviewLeadCooledFast2021a]]

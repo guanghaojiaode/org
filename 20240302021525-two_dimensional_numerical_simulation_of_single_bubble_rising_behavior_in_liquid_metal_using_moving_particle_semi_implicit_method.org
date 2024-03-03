@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b9287555-daaf-4812-b2ff-fa64812cd568
+:ROAM_REFS: cite:zuoTwodimensionalNumericalSimulation2013
+:END:
+#+title: Two-dimensional numerical simulation of single bubble rising behavior in liquid metal using moving particle semi-implicit method
+

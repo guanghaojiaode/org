@@ -6,7 +6,7 @@
 #+title: Introduction to nuclear engineering
 * The Void Coefficient
 :PROPERTIES:
-:NOTER_PAGE: 392
+:NOTER_PAGE: 385
 :END:
 #+begin_quote
 The situation regarding the void coefficient in sodium-cooled fast reactors is more complex. Sodium does not absorb neutrons to any great extent, so the expulsion of coolant from the reactor due to the formation of voids has only a negligible effect on the overall absorption of neutrons in the system.

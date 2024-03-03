@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fad33a09-aefc-477c-a767-6cc192b588ea
+:ROAM_REFS: cite:tarantinoOverviewLeadCooledFast2021
+:END:
+#+title: Overview on Lead-Cooled Fast Reactor Design and Related Technologies Development in ENEA
+

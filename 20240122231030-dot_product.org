@@ -4,5 +4,3 @@
 #+title: Dot Product
 #+STARTUP: latexpreview
 - The product is a vector.
-
-[[file:images/umwandlung.png][Umwandlung]]

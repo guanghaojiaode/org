@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{bieberle3DShapeVelocity2024}
+M.~Bieberle, T.~Gundrum, D.~R{\"a}biger, A.~Bieberle, and S.~Eckert.
+\newblock 3-{{D}} shape and velocity measurement of argon gas bubbles rising in
+  liquid sodium by means of ultrafast {{X-ray CT}} imaging.
+\newblock {\em Flow Measurement and Instrumentation}, 95:102503, February 2024.
+
+\bibitem{chengSafetySodiumCooledFast2021}
+Songbai Cheng and Ruicong Xu.
+\newblock {\em Safety of {{Sodium-Cooled Fast Reactors}}:
+  {{Particle-Bed-Related Phenomena}} in {{Severe Accidents}}}.
+\newblock {Springer Singapore}, {Singapore}, 2021.
+
+\bibitem{parsegianSeriesMonographsTextbooks}
+John Graham.
+\newblock {\em Fast reactor safety}.
+\newblock Academic Press, 1971.
+
+\bibitem{lamarshIntroductionNuclearEngineering2001}
+John~R. Lamarsh and Anthony~John Baratta.
+\newblock {\em Introduction to Nuclear Engineering}.
+\newblock Addison-{{Wesley}} Series in Nuclear Science and Engineering.
+  {Prentice Hall}, {Upper Saddle River, N.J}, 3rd ed edition, 2001.
+
+\bibitem{TechnologyRoadmapUpdate}
+None.
+\newblock Technology {{Roadmap Update}} for {{Generation IV Nuclear Energy
+  Systems}}.
+\newblock Technical report, NEA, 2014.
+
+\bibitem{radmanDevelopmentNovelTwophase2021}
+Stefan Radman, Carlo Fiorina, and Andreas Pautz.
+\newblock Development of a novel two-phase flow solver for nuclear reactor
+  analysis: {{Validation}} against sodium boiling experiments.
+\newblock {\em Nuclear Engineering and Design}, 384:111422, December 2021.
+
+\bibitem{schulenbergFourthGenerationNuclear2022}
+Thomas Schulenberg.
+\newblock {\em The Fourth Generation of Nuclear Reactors: {{Fundamentals}},
+  {{Types}}, and {{Benefits Explained}}}.
+\newblock {Springer Berlin Heidelberg}, {Berlin, Heidelberg}, 2022.
+
+\bibitem{tommasiValidationSodiumVoid2010}
+J.~Tommasi, P.~Archier, and J.~M. Ruggieri.
+\newblock Validation of the sodium void reactivity effect prediction using
+  {{JEFF-3}}.1 nuclear data.
+\newblock {\em Annals of Nuclear Energy}, 37(11):1534--1553, November 2010.
+
+\bibitem{wuReviewHeatTransfer2018}
+Yingwei Wu, Simin Luo, Liu Wang, Yandong Hou, G.H. Su, Wenxi Tian, and Suizheng
+  Qiu.
+\newblock Review on heat transfer and flow characteristics of liquid sodium
+  (2): {{Two-phase}}.
+\newblock {\em Progress in Nuclear Energy}, 103:151--164, March 2018.
+
+\bibitem{zohuriThermodynamicsNuclearPower2019}
+Bahman Zohuri and Patrick McDaniel.
+\newblock {\em Thermodynamics in {{Nuclear Power Plant Systems}}}.
+\newblock {Springer International Publishing}, {Cham}, 2019.
+
+\end{thebibliography}

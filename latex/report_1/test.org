@@ -1,0 +1,68 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+title: Investigation of Liquid Metal Flows in Na-Cooled Reactors
+#+date: <2024-03-01 Fri>
+#+author: Guanghao Jiao
+#+email: jiao73@hzdr.de
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.2 (Org mode 9.6.15)
+#+cite_export:
+
+
+\section{Introduction}
+This project "Investigation of liquid metal flows in Na-cooled reactors" is aiming at the R&D of the safety of the sodium-cooled fast nuclear reactor (SFR), which is one of the nuclear reactors of generation IV. This report is to provide a brief problem description regarding the R&D of the SFR as well as an overview of its development history.
+
+After the first fast breeder reactor was built in 1951, several experimental SFRs were built in the 1960s and 1970s. However, due to reasons such as leakage accidents, the success of the LWRs, and the illusion of adequate fuel, the development of the SFRs was stopped in the late 1980s. \cite{chengSafetySodiumCooledFast2021}
+
+In the 21st century, due to the ongoing global warming and the increase in the radioactive waste produced by the LWRs, the R&D on the generation IV nuclear reactors was planned, aiming at the development of revolutionary reactors with inherent safety features, efficient utilization of the fuel, better management of the radioactive waste and so on. In this background, the sodium-cooled fast reactor (SFR) has regained prominence. Particularly, SFR is the most promising one among all generation IV reactors, due to its multiple advantages such as long operation experience and excellent thermal-physics performance of sodium \cite{ chengSafetySodiumCooledFast2021, TechnologyRoadmapUpdate, schulenbergFourthGenerationNuclear2022}.
+
+\section{Motivation}
+\label{motivation}
+Although the SFR has been built for plenty of time over the years, its operation experience is still limited and it is more difficult than expected to be commercialized \cite{chengSafetySodiumCooledFast2021}. The issues are, at first, the reactor work condition is more sensitive and unpredictable than thermal reactors \cite{zohuriThermodynamicsNuclearPower2019}. Secondly, it is hard to prevent the highly reactive sodium from leakage, which may lead to burning accidents, for example, Monju sodium leakage and fire accident in 1995. Lastly and most significantly, most SFRs have a positive coefficient as well as a positive void effect, meaning that an increase in void fraction leads to an increase in reactivity, see section \ref{Void Coefficient} in detail.
+
+In normal working conditions, the increase in reactivity caused by the positive void effect is prevented from other effects, for example, the Doppler effect. In these conditions, sodium boiling is unlikely to happen, and a few bubbles may come from various sources, such as gas in the fuel pin, trapped gas during the initial filling, absorbed gas at the free surface \cite{parsegianSeriesMonographsTextbooks}, and so on. The safety influence of these bubbles is negligible, only the efficiency may be reduced \cite{bieberle3DShapeVelocity2024}. As long as the coolant is adequate so that sodium doesn't boil, even if the void fraction reaches 50\%, which is already unpractical, failures are unlikely to happen \cite{parsegianSeriesMonographsTextbooks}.
+
+However, in some hypothetical accidental scenarios, which is extremely improbable but still possible, the positive void effect of SFR may lead to severe hazards. For example, if the coolant channel is blocked and the sodium begins to boil, the positive void effect may lead to a hazardous increase in reactivity and temperature, resulting in fuel rods' burnout or the core meltdown. Although the Doppler effect can hold this back, it is still too late to prevent the fuel rods' burnout. This core meltdown accident is nearly improbable but is at an extremely high hazard level, thus the positive void effect must be taken into consideration. \cite{chengSafetySodiumCooledFast2021, parsegianSeriesMonographsTextbooks, schulenbergFourthGenerationNuclear2022} Although it can be reduced by better reactor designs, for example, reducing the coolant fuel ratio \cite{tommasiValidationSodiumVoid2010}, the prevailing consensus is that it is necessary to be included in safety analysis \cite{radmanDevelopmentNovelTwophase2021}, and it is closely related to the study of two-phase metal flow, the reasons are as follow.
+
+On the one hand, the heat transfer in the two-phase flow is fatal for the study of sodium boiling in some hypothetical accidents. The study on the two-phase flow in liquid metal-cooled reactors primarily took place during the last century. However, it was not well-researched and scholars have given divergent conclusions. Especially, the heat transfer of the liquid sodium two-phase flow in bundle channels is lacking. \cite{wuReviewHeatTransfer2018} Moreover, the flow shape is a significant factor for the void coefficient as well, see section \ref{Void Coefficient}. 
+
+\section{Void Coefficient}
+\label{Void Coefficient}
+In this section, the void coefficient is introduced, along with some of its factors.
+
+The void coefficient is defined as the change in reactivity per void fraction:
+\begin{equation*}
+    \alpha_v = \frac{d\rho}{dx}
+\end{equation*}
+
+The symbol $\alpha$ is the void coefficient, the symbol $\rho$ is the reactivity, and the symbol $x$ is the void fraction.
+
+In general, the change in the void fraction leads to a change in reactivity. As the void coefficient in SFR is positive, the increase in the void fraction increases the reactivity as well, thus raising the temperature and causing more sodium boiling and hence higher void fraction. This is called the void effect. As mentioned above in section \ref{motivation}, the positive void coefficient leads to safety issues only in some almost improbable hypothetical accidents but is still of great analysis significance. 
+
+In general, the factors of the void coefficient in SFR are more complex than in thermal reactors. It is influenced by a trade-off effect and the flow shape.
+
+On the one hand, the formation of the homogeneous void leads to an even decrease in the density of the sodium and increases the void coefficient. In SFR, sodium serves not only as a coolant but also as a poor moderator by scattering the neutrons.
+
+One interesting feature of sodium is that it interacts with high-energetic neutrons mainly by inelastic scattering, which moderates them, but interacts with low-energetic neutrons by elastic scattering, which barely slows them down. As an increase in the void fraction decreases the liquid sodium density, neutrons are less scattered inelastically thus less moderated. As a result, the whole neutron spectrum is hardened. Next, the neutron reproduction factor $\eta$ is consequently increased and more neutrons are produced. In this way, the formation of the void generally tends to increase the void coefficient, and this is the positive effect of the trade-off. \cite{ lamarshIntroductionNuclearEngineering2001, tommasiValidationSodiumVoid2010}
+
+On the other hand, the negative effect of the trade-off is the neutron leakage through the void out of the reactor. The leaked neutrons do not produce new neutrons and thus tend to decrease the void coefficient. The leakage is dependent on the flow shape in the two-phase flow. If the void is evenly distributed in the reactor, the void coefficient tends to be positive, since there is less neutron leakage. However, if the void accumulates near the reactor wall, the neutron leakage increases much more. This tends to decrease the void coefficient and even leads to a negative void coefficient. Besides, a reduction in the coolant-fuel ratio is also a strategy to decrease the void coefficient, which is already mentioned in section \ref{motivation}. \cite{lamarshIntroductionNuclearEngineering2001}
+
+\section{Summary and Outlook}
+All in all, the study on the two-phase flow in liquid metal is significant for the void effect and hence the safety of SFRs. Thus, as a natural consequence, the following questions regarding the experiments are raised: 
+
+1. Since during the experiment the liquid sodium is still, while sodium practically flows in the reactor -- To what extent can the experiment reflect the two-phase flow practically in SFRs? 
+
+2. How does the void distribute in the reactor during the sodium boiling? Homogeneously or unevenly?
+
+3. How does the void interact with the core? Does it enter the core? Does it accumulate in the core or merely go through the core?
+
+4. How does the void behave? Does it collapse and coalesce?
+
+These questions are to be answered as the first step of the study on the two-phase flow in liquid metal. A database as a benchmark is to be published in the future for researchers to develop different CFD models and advance this field.
+
+\bibliographystyle{plain}
+\bibliography{mylib}
