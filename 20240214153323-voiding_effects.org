@@ -34,3 +34,8 @@
 + There will be unlikely failures.
 * Description
 ** [[id:c936dd65-e215-4839-84e9-50b51b1e296a][Void Coefficient]]
+* Physics
+Here are some contributions and equations to the void coefficient: [[id:679067da-a27e-4680-b965-f216ef4f252d][Validation of the sodium void reactivity effect prediction using JEFF-3.1 nuclear data]]
+#+begin_quote
+2. The physics of sodium void
+#+end_quote

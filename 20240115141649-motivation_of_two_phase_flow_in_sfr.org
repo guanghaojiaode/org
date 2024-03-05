@@ -83,3 +83,6 @@ According to the explain in the Essential section, these questions are important
 - phase transitions in passive decay heat removal systems
 * Motivation of two phase flow study in LFR
 
+* Final Motivation
+This work is mainly for providing a benchmark database for the liquid metal researchers, so that they can do CFD simulations based on my database.
+I'll also analyze the database by myself and then we can also compare their parameters with my parameters.

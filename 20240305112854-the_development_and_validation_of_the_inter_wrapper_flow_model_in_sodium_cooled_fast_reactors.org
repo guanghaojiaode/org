@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9586f373-db79-44d5-bad9-e2bde739d823
+:ROAM_REFS: cite:yueDevelopmentValidationInterwrapper2018
+:END:
+#+title: The development and validation of the inter-wrapper flow model in sodium-cooled fast reactors
+#+filetags: :Journal:
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       679067da-a27e-4680-b965-f216ef4f252d
+:ROAM_REFS: cite:tommasiValidationSodiumVoid2010
+:END:
+#+title: Validation of the sodium void reactivity effect prediction using JEFF-3.1 nuclear data
+

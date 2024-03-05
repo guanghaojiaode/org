@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4d25e231-512c-4ba3-a29d-17eff8b0f7ae
+:END:
+#+title: Sodium Flow Rate
+The sodium flow rate may have to do with the CFD models.
+#+begin_quote
+To ensure the safety of SFR, a decay heat removal (DHR) system should work under emergency conditions. When the direct heat exchangers (DHX) of the DHR system are immersed in the hot pool, the cold coolant provided by the DHX circulates in the gap region between the subassemblies. The flow in the gaps between subassemblies is known as the inter-wrapper flow (IWF).
+[[id:9586f373-db79-44d5-bad9-e2bde739d823][\cite{yueDevelopmentValidationInterwrapper2018}]]
+#+end_quote

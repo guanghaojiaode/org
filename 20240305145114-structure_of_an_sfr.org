@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       00311cc4-f99c-4b8e-9861-b54a47a2159e
+:END:
+#+title: Structure of an SFR
+To investigate the flow velocity in the reactor, it is important to understand the SFR structure.
