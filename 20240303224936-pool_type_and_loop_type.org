@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c9ab65ed-419c-452a-b7af-5d736f9a81ac
+:END:
+#+title: Pool Type and Loop Type
+The Sodium Cooled

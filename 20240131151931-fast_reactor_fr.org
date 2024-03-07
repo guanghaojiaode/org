@@ -3,11 +3,11 @@
 :END:
 #+title: Fast Reactor (FR)
 * Definition
-In some definitions, it is defined as all fast reactors in cluding fast breeder reactors. But some are defined as not designed to breed more fuel, unlike [[id:14b046d3-4995-4be2-9a79-ba77f9730605][Fast Breeder Reactor]]. Anyway the definitions seems to be not so clear and the line between them is not so clear. Because, for example, the SFR can be adjusted to breeder, converter and burner, depending on different conversion ratio.  
+In some definitions, it is defined as all fast reactors in cluding fast breeder reactors. But some are defined as not designed to breed more fuel, unlike [[id:14b046d3-4995-4be2-9a79-ba77f9730605][Fast Breeder Reactor]]. Anyway the definitions seems to be not so clear and the line between them is not so clear. Because, for example, the SFR can be adjusted to breeder, converter and burner, depending on different conversion ratios.  
 
 * Features
 [[id:a992f50f-8fb3-4537-9cb4-14461aff017e][Fast Reactor (FR)]] has higher efficiency than normal reactors, 60% higher. [[id:6e3d81ae-140a-45cc-9167-e4b6885f5183][zohuriThermodynamicsNuclearPower2019]] (P. 496)
-Bubbles are more present in process, so that reactors are more tend to heat up rather than cool down. /I wonder this is to do with that this reactor has a positive [[id:c936dd65-e215-4839-84e9-50b51b1e296a][Void Coefficient]]/.
+Bubbles are more present in the process, so reactors are more tend to heat up rather than cool down. /I wonder if this has to do with the fact that this reactor has a positive [[id:c936dd65-e215-4839-84e9-50b51b1e296a][Void Coefficient]]/.
 
 Typical fast reactors are [[id:f8ed4d51-6490-4ba0-944b-7abe29a8f5d8][Sodium-Cooled Fast Reactor (SFR)]], [[id:3ad73744-75f0-4551-8bab-2781d86d1f19][Lead-Cooled Fast Reactor (LFR)]], [[id:eadac617-b989-4540-8a1a-d6ba8b2772b6][Gas-Cooled Fast Reactor (GFR)]].
 

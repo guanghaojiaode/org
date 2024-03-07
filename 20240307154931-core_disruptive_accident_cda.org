@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8fc68ce9-87c2-45c7-9542-87c6c6139fbc
+:END:
+#+title: Core Disruptive Accident (CDA)
+- transient overpower
+- transient undercooling
+- although the margin between the melting point and the boiling point of the sodium is huge, there is molten fuel coolant interaction.
+
+
+

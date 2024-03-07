@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f205e74f-5499-4942-b557-519ce64698b0
+:END:
+#+title: Sodium Bubbles
+Even if the sodium does not contain any impurities, its vapor must be considered as a mixture of electrons, sodium ions Na+, monomer Na, dimer Na2, and even tetramer Na4 sodium molecules. [[cite:&vanderhaegenReviewSodiumBoiling2014]]

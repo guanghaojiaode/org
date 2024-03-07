@@ -16,11 +16,13 @@ The money is until 31.03.2024. I need to hand in money from May.
 * CANCELED Call the Ausländerbehörde
 CLOSED: [2024-02-27 Tue 12:02] SCHEDULED: <2024-02-27 Tue 08:20>
 - State "CANCELED"   from "TODO"       [2024-02-27 Tue 12:02]
-I did not managed to call them. They were very busy. I sent an email to them and am waiting for their reply.
+I did not manage to call them. They were very busy. I sent an email to them and am waiting for their reply.
 * DONE Waiting for the Reply from Ausländerbehörde
 - State "DONE"       from "TODO"    [2024-03-03 Sun 20:04]
-* TODO Ask My Hausmeister to Arrange My Flat 
+* DONE Ask My Hausmeister to Arrange My Flat 
 DEADLINE: <2024-03-03 Sun 12:00>
+- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
+- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
 * TODO Buy the paint for the door
 SCHEDULED: <2024-03-04 Mon>
 - State "TODO"       from              [2024-03-03 Sun 20:06]
@@ -28,9 +30,13 @@ SCHEDULED: <2024-03-04 Mon>
 SCHEDULED: <2024-03-04 Mon>
 - State "TODO"       from              [2024-03-03 Sun 20:03]
 Tell Frau Nahler that I come from China, not Hong Kong.
-* TODO 1 slide PPT
+* DONE 1 slide PPT
 SCHEDULED: <2024-03-03 Sun>
+- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
+- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
 - State "TODO"       from              [2024-03-03 Sun 20:07]
-* TODO Email to my home doctor to get the medicine
+* DONE Email to my home doctor to get the medicine
 SCHEDULED: <2024-03-04 Mon>
+- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
+- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
 - State "TODO"       from              [2024-03-03 Sun 20:42]

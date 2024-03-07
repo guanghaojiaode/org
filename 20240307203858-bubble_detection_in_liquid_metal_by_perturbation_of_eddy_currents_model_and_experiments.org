@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7af80cf0-4aef-4ba1-afba-8bd31eb243f6
+:ROAM_REFS: cite:afflardBubbleDetectionLiquid2023
+:END:
+#+title: Bubble detection in liquid metal by perturbation of eddy currents: Model and experiments
+
+CIBD: contactless inductive bubble detection
+
+This 

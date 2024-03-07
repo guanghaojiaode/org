@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c725b5ff-1d72-486d-8d14-26b419b70dd2
+:END:
+#+title: Galinstan (GaInSn)
+Ga: Gallium
+
+In: Indium
+
+Sn: Sin
+

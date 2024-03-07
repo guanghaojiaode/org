@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9b76d356-3e01-45a4-8c04-e871a895edc9
+:ROAM_REFS: cite:irvineNuclearPowerVery2011
+:END:
+#+title: Nuclear Power: A Very Short Introduction
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       106b2995-bd5e-4b21-8be5-c9296c41d4c9
+:END:
+#+title: Bubbles in SFR
+The bubbles in the [[id:f8ed4d51-6490-4ba0-944b-7abe29a8f5d8][Sodium-Cooled Fast Reactor (SFR)]] are not just sodium bubbles caused by sodium boiling, but also the fuel bubbles. There is also plenty of argon in the reactor.
+
+The [[id:f205e74f-5499-4942-b557-519ce64698b0][Sodium Bubbles]] have relationships with [[id:2c0e7765-9909-489e-86c6-da9dbb179c0e][Water Bubbles]].
+
+There are also fuel bubbles and argon bubbles. 
+

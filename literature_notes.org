@@ -1,0 +1,13 @@
+
+* Afflard, A., Zamansky, R., Paumel, K., Bergez, W., & Tordjeman, P. (2023): Bubble detection in liquid metal by perturbation of eddy currents: Model and experiments
+  :PROPERTIES:
+  :Custom_ID: afflardBubbleDetectionLiquid2023
+  :END:
+
+test
+
+*  (): Zusatzversorgung des \"offentlichen dienstes
+  :PROPERTIES:
+  :Custom_ID: ZusatzversorgungOeffentlichenDienstes
+  :END:
+
