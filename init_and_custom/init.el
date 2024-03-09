@@ -156,7 +156,8 @@ Otherwise the startup will be very slow."
 (require 'init-web)
 (require 'org-ref)
 (require 'org-ref-helm)
-
+(require 'evil)
+(evil-mode 1)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; init.el ends here
 ;; Guanghao ;;
@@ -208,7 +209,7 @@ Otherwise the startup will be very slow."
       '((article       . "${=has-pdf=:1}${=has-note=:3} ${=type=:10} ${year:4} {author:20} ${title:40} ${journal:20}")
         (inbook        . "${=has-pdf=:1}${=has-note=:1} ${=type=:10} ${year:4} ${author:20} ${title:40} Chapter ${chapter:20}")
         (incollection  . "${=has-pdf=:1}${=has-note=:1} ${=type=:10} ${year:4} ${author:20} ${title:40} ${booktitle:20}")
-        (inproceedings . "${=has-pdf=:1}${=has-note=:1} ${=type=:10} ${year:4} ${author:20} ${title:40} ${booktitle:20")
+        (inproceedings . "${=has-pdf=:1}${=has-note=:1} ${=type=:10} ${year:4} ${author:20} ${title:40} ${booktitle:20}")
         (t             . "${=has-pdf=:1}${=has-note=:3} ${=type=:10} ${year:4} ${author:20} ${title:40} ${journal:20}")))
 (setq bibtex-completion-pdf-symbol "⌘")
 (setq bibtex-completion-notes-symbol "✎")
@@ -225,6 +226,38 @@ Otherwise the startup will be very slow."
                        (lsp))))  ; or lsp-deferred
 
 (setq org-format-latex-options (plist-put org-format-latex-options :scale 2.0))
+
+(setq org-agenda-files (quote ("~/org/")))
+(custom-set-variables
+ '(org-directory "~/org/")
+ '(org-agenda-files (list org-directory)))
+
+(use-package citar
+  :custom
+  (citar-bibliography '("~/org/mylib/bib/mylib.bib"))
+  :hook
+  (LaTeX-mode . citar-capf-setup)
+  (org-mode . citar-capf-setup))
+
+(use-package citar
+  :no-require
+  :custom
+  (org-cite-global-bibliography '("~/org/mylib/bib/mylib.bib"))
+  (org-cite-insert-processor 'citar)
+  (org-cite-follow-processor 'citar)
+  (org-cite-activate-processor 'citar)
+  (citar-bibliography org-cite-global-bibliography)
+  ;; optional: org-cite-insert is also bound to C-c C-x C-@
+  :bind
+  (:map org-mode-map :package org ("C-c n b" . #'org-cite-insert)))
+
+(setq citar-at-point-function 'embark-act)
+
+(use-package citar-embark
+  :after citar embark
+  :no-require
+  :config (citar-embark-mode))
+
 (use-package org-roam-bibtex
   :ensure t
   :after org-roam
@@ -238,6 +271,14 @@ Otherwise the startup will be very slow."
    '("citekey" "title" "url" "author-or-editor" "keywords" "file"))
   (orb-process-file-keyword t)
   (orb-attached-file-extensions '("pdf")))
+
+(use-package citar-org-roam
+  :after (citar org-roam)
+  :config (citar-org-roam-mode))
+
+(setq citar-org-roam-note-title-template "${author} - ${title}")
+(setq citar-org-roam-capture-template-key "n")
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;org noter;;;;;;;;;;;;;;;
 (use-package org-noter
   :ensure t
@@ -252,9 +293,7 @@ Otherwise the startup will be very slow."
    ("e" . org-noter-insert-note)
    ("M-e" . org-noter-insert-precise-note)))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(define-key org-mode-map (kbd "C-c n b") 'org-ref-cite-insert-helm)
+; (define-key org-mode-map (kbd "C-c n b") 'org-ref-cite-insert-helm)
 (define-key org-mode-map (kbd "C-c n s") 'dictionary-search)
 (define-key org-mode-map (kbd "C-c n e") 'lsp-execute-code-action)
-
-
 ;; Guanghao ;;

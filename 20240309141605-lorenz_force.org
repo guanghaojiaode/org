@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       942cb636-22b2-4684-a486-1fed3ef2522d
+:END:
+#+title: Lorenz Force
+The force that a charged particle experiences in the electromagnetic field.

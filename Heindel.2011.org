@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a5786c1a-e374-4dff-a46d-7d39ae5ace63
+:ROAM_REFS: @Heindel.2011
+:END:
+#+title: Heindel, Theodore J. :: A Review of X-ray Flow Visualization with Applications to Multiphase Flows
+

@@ -6,4 +6,15 @@
 
 CIBD: contactless inductive bubble detection
 
-This 
+* Objectives:
+1. Present a new model of the ECFM response, when the fluid go through it. It is more general than the model developed by other people before.
+2. To show that the ECFM response can well estimate the size and position of the bubbles in a column of liquid [[id:c725b5ff-1d72-486d-8d14-26b419b70dd2][Galinstan (GaInSn)]].
+
+* Mechanism
+The mechanism of the ECFM is the Lorenz force. 
+
+[[id:942cb636-22b2-4684-a486-1fed3ef2522d][Lorenz Force]]
+
+[[id:52be4642-f98a-43b5-9b22-ac4bfaf37ea2][Eddy Current Flow Meter (ECFM)]] 
+
+Two coils measure the perturbation of the magnetic field created by the primary coil.

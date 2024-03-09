@@ -2,6 +2,7 @@
 :ID:       bf8af33d-30a9-40e1-b8fe-39f76fd281f1
 :END:
 #+title: RIMANUS Meeting 20240308
+* Preparation
 Talk about:
 
 - the background
@@ -33,3 +34,10 @@ Nowadays, we have the fastest X-ray tomography setup with high resolution, and a
 The purpose of the experiment is to provide the researchers with a benchmark database to establish the models, for example, CFD models, and have a better option to simulate the accident scenarios more precisely, to help improve the safety level of SFR.
 
 At the end, the bubble parameters from different models would be collected and compared.
+* Contents
+- I showed the 1-slide presentation.
+  + I need to modify my presentation.
+- It was mainly about the conferences.
+- There were several questions that I needed to figure out.
+  + 
+

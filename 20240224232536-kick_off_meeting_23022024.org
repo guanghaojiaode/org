@@ -14,10 +14,12 @@ CLOSED: [2024-02-24 Sat 23:36]
 - One question is, we can experiment with water, why do we need to do experiments with sodium?
 - Actually, the interaction of the two bubbles in liquid metal is not well-researched.
 - The presentation should be explained more with images and less with text. 
-* DOING 1 or 2 Pages
+* DONE 1 or 2 Pages
+CLOSED: [2024-03-09 Sat 19:26]
 - [[id:3b454634-8968-44e5-bef4-3f614fab9dda][Motivation of My Topic]]
 - I need to prepare a small document of the motivation. Until now, I have researched something and to somewhat extent found my own story. I need to write down my own story (the motivation). I want to have
-* DOING 1-Slide-PPT
+* DONE 1-Slide-PPT
+CLOSED: [2024-03-09 Sat 19:27]
 - I need to use 1 (or 2) slide(s) to show the information regarding the motivation in the 1 or 2 pages that I have written down.
 - This slide should be able to be used in every presentation, helping people quickly get to the point!
 * HANGUP The Next Presentation
@@ -26,7 +28,7 @@ CLOSED: [2024-02-24 Sat 23:36]
   + How does the bubble behave in the fuel assembly?
   + Or even do bubbles enter the fuel assembly?
 - The image can also be created by myself, in a way that is simple and easy to understand.
-* TODO Technical Meeting
+* TODO Technical Meeting with Frank
 ** Aim
 *** Flow Velocity
 - Is the velocity of the flow important or not?

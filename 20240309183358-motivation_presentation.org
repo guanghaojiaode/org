@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f028bfc4-35b0-4cfa-8e38-61fe47197033
+:END:
+#+title: Motivation Presentation
+* Thermal Scenario
+- The thermal scenario is important.
+- The heat transfer of Na and $H_2O$ is different.
+- The convection and the conduction -- which is dominant in the heat transfer of liquid sodium? (*)
+- This question above (*) should be included in the explaination of the PPT.
+- What is the relationship between the reactor scale and the [[id:c936dd65-e215-4839-84e9-50b51b1e296a][Void Coefficien]]?
+
+* Unorgnized
+- Safety issues may appear more oftenly in 30 small reactors than in 1 huge reactor. 

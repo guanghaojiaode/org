@@ -10,33 +10,46 @@ CLOSED: [2024-02-26 Mon 11:27] SCHEDULED: <2024-02-26 Mon 11:00>
 * DONE Ask the Ausländerbehörde about my Verlängerungsdatum
 CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 09:00>
 - [ ] Then it is better to write to Micha.
-* HANGUP Coffee money
+* WAITING Coffee money
 SCHEDULED: <2024-05-01 Wed>
 The money is until 31.03.2024. I need to hand in money from May.  
 * CANCELED Call the Ausländerbehörde
 CLOSED: [2024-02-27 Tue 12:02] SCHEDULED: <2024-02-27 Tue 08:20>
-- State "CANCELED"   from "TODO"       [2024-02-27 Tue 12:02]
 I did not manage to call them. They were very busy. I sent an email to them and am waiting for their reply.
 * DONE Waiting for the Reply from Ausländerbehörde
-- State "DONE"       from "TODO"    [2024-03-03 Sun 20:04]
 * DONE Ask My Hausmeister to Arrange My Flat 
 DEADLINE: <2024-03-03 Sun 12:00>
-- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
-- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
 * TODO Buy the paint for the door
 SCHEDULED: <2024-03-04 Mon>
-- State "TODO"       from              [2024-03-03 Sun 20:06]
 * TODO Email to Frau Nahler
 SCHEDULED: <2024-03-04 Mon>
-- State "TODO"       from              [2024-03-03 Sun 20:03]
 Tell Frau Nahler that I come from China, not Hong Kong.
 * DONE 1 slide PPT
 SCHEDULED: <2024-03-03 Sun>
-- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
-- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
-- State "TODO"       from              [2024-03-03 Sun 20:07]
 * DONE Email to my home doctor to get the medicine
 SCHEDULED: <2024-03-04 Mon>
-- State "DONE"       from "WAITING"    [2024-03-07 Thu 13:25]
-- State "WAITING"    from "TODO"       [2024-03-07 Thu 13:25]
-- State "TODO"       from              [2024-03-03 Sun 20:42]
+* WAITING Leipzig Conference
+SCHEDULED: <2024-06-11 Thu>-<2024-06-13 Thu>
+- Biggest conference on nuclear engineering. 
+- It is good to getting contact with people.
+* WAITING Workshop
+SCHEDULED: <2024-06-16 Thu>-<2024-06-20 Thu>
+- What could we prepare for the workshop?
+* TODO Modify the 1-slide PPT
+SCHEDULED: <2024-03-11 Sun>
+- Remember that I need to introduce it to other people in 2 or 3 minutes.
+- [[id:f028bfc4-35b0-4cfa-8e38-61fe47197033][Motivation Presentation]]
+* WAITING Look for a Conference at the end of the year
+- There are at least two conferences:
+  + Nureth
+  + ICO & E
+- It would be good if I could have a PPT for them.
+* DONE Read Max's Project Description
+- What is the difference between my project and the project of Max?
+- We need to discuss which part of the results we want to publish for each one. Because they should be different. 
+* TODO Tell Max I'll Attend the Conference
+SCHEDULED: <2024-05-27 Thu>-<2024-05-29 Thu>
+- State "TODO"       from              [2024-03-09 Sat 18:27]
+- Abstract --> Max, but I don't need to send it to him, because he is the organizer.
+* TODO Organize the meeting with Frank 
+- State "TODO"       from              [2024-03-09 Sat 18:19]
