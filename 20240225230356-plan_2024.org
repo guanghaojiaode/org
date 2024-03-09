@@ -35,8 +35,10 @@ SCHEDULED: <2024-06-11 Thu>-<2024-06-13 Thu>
 * WAITING Workshop
 SCHEDULED: <2024-06-16 Thu>-<2024-06-20 Thu>
 - What could we prepare for the workshop?
-* TODO Modify the 1-slide PPT
+* DONE Modify the 1-slide PPT
 SCHEDULED: <2024-03-11 Sun>
+- State "DONE"       from "WAITING"    [2024-03-09 Sat 20:47]
+- State "WAITING"    from "TODO"       [2024-03-09 Sat 20:47]
 - Remember that I need to introduce it to other people in 2 or 3 minutes.
 - [[id:f028bfc4-35b0-4cfa-8e38-61fe47197033][Motivation Presentation]]
 * WAITING Look for a Conference at the end of the year
