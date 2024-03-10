@@ -20,4 +20,3 @@ The mechanism of the ECFM is the Lorenz force.
 [[id:52be4642-f98a-43b5-9b22-ac4bfaf37ea2][Eddy Current Flow Meter (ECFM)]] 
 
 Two coils measure the perturbation of the magnetic field created by the primary coil.
-([[id:57bd656e-c756-4800-97b4-ac46c4d21220][andrewmillerGreenHydrogenAnion2020]])
