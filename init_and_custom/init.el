@@ -330,3 +330,4 @@ Otherwise the startup will be very slow."
 (define-key org-mode-map (kbd "C-c n s") 'dictionary-search)
 (define-key org-mode-map (kbd "C-c n e") 'lsp-execute-code-action)
 ;; Guanghao ;;
+/home/j815439748/.emacs.d/init.el
