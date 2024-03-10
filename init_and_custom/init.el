@@ -186,11 +186,10 @@ Otherwise the startup will be very slow."
    ("C-c n c" . org-roam-capture)
    ("C-c n l" . org-roam-buffer-toggle) ;; 显示后链窗口
    ("C-c n u" . org-roam-ui-mode)
-       ("C-c n d" . org-roam-dailies-find-date) ;; 日记菜单
+   ("C-c n d" . org-roam-dailies-find-date) ;; 日记菜单
    :map org-mode-map
    ("C-M-i" . completion-at-point)
    ) ;; 浏览器中可视化
-  :bind-keymap
   :config
   (org-roam-setup)
   (org-roam-bibtex-mode +1)
@@ -330,4 +329,3 @@ Otherwise the startup will be very slow."
 (define-key org-mode-map (kbd "C-c n s") 'dictionary-search)
 (define-key org-mode-map (kbd "C-c n e") 'lsp-execute-code-action)
 ;; Guanghao ;;
-/home/j815439748/.emacs.d/init.el
