@@ -2,13 +2,11 @@
 :ID:       52be4642-f98a-43b5-9b22-ac4bfaf37ea2
 :END:
 #+title: Eddy Current Flow Meter (ECFM)
-ECFM is originally designed to measure the flow rate of liquid metal flows in pipes.
+ECFM was originally designed to measure the flow rate of liquid metal flows in pipes.
 
-The primary coil generates at first an alternating magnetic field. When the liquid metal flows in the pipe, the fluid motion induces small eddy currents that perturbe the magnetic field.
+The primary coil generates at first an alternating magnetic field. When the liquid metal flows in the pipe, the fluid motion induces small eddy currents that perturb the magnetic field.
 
-The second coil measures this pertubation and the pertubations are a function of the fluid velocity. [cite:@afflardBubbleDetectionLiquid2023] 
- 
-
+The second coil measures this perturbation and the perturbations are a function of the fluid velocity. ([[id:fb438f94-ba4a-4ad6-947c-328bfaf1b0c2][afflardBubbleDetectionLiquid2023]]) 
 
 
 

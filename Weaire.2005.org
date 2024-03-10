@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d8f4d1b1-4da7-4d93-9e9f-2486155f2128
+:ROAM_REFS: @Weaire.2005
+:END:
+#+title: Weaire.2005 (2005). Weaire, Denis and Hutzler, Stefan - The Physics of Foams.
+#+created: [2024-03-10 Sun 10:00]
+#+last_modified: [2024-03-10 Sun 10:00]
+

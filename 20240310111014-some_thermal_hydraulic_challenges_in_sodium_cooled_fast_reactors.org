@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4d17b9c8-2cfc-4576-8827-1d6116493bb3
+:ROAM_REFS: cite:tenchineThermalHydraulicChallenges2010
+:END:
+#+title: Some thermal hydraulic challenges in sodium cooled fast reactors
+

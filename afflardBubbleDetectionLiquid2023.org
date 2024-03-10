@@ -1,8 +1,10 @@
 :PROPERTIES:
-:ID:       7af80cf0-4aef-4ba1-afba-8bd31eb243f6
-:ROAM_REFS: cite:afflardBubbleDetectionLiquid2023
+:ID:       fb438f94-ba4a-4ad6-947c-328bfaf1b0c2
+:ROAM_REFS: @afflardBubbleDetectionLiquid2023
 :END:
-#+title: Bubble detection in liquid metal by perturbation of eddy currents: Model and experiments
+#+title: afflardBubbleDetectionLiquid2023 (2023). Afflard, A. and Zamansky, R. and Paumel, K. and Bergez, W. and Tordjeman, P. - Bubble Detection in Liquid Metal by Perturbation of Eddy Currents: Model and Experiments.
+#+created: [2024-03-10 Sun 09:54]
+#+last_modified: [2024-03-10 Sun 09:54]
 
 CIBD: contactless inductive bubble detection
 
@@ -18,3 +20,4 @@ The mechanism of the ECFM is the Lorenz force.
 [[id:52be4642-f98a-43b5-9b22-ac4bfaf37ea2][Eddy Current Flow Meter (ECFM)]] 
 
 Two coils measure the perturbation of the magnetic field created by the primary coil.
+([[id:57bd656e-c756-4800-97b4-ac46c4d21220][andrewmillerGreenHydrogenAnion2020]])
