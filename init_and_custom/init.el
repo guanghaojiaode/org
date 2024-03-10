@@ -162,6 +162,8 @@ Otherwise the startup will be very slow."
 (evil-mode 1)
 (citar-org-roam-mode 1)
 (citar-embark-mode 1)
+(add-hook 'org-mode-hook 'display-line-numbers-mode)
+(add-hook 'org-mode-hook (lambda () (display-line-numbers-mode 'visual)))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; init.el ends here
 ;; Guanghao ;;
@@ -322,6 +324,7 @@ Otherwise the startup will be very slow."
                                         ; (define-key org-mode-map (kbd "C-c n b") 'org-ref-cite-insert-helm)
 (define-key org-mode-map (kbd "C-c n o") 'citar-open-note)
 (define-key org-mode-map (kbd "C-c n r") 'citar-dwim)
+(define-key org-mode-map (kbd "C-c n SPC") 'flyspell-goto-next-error)
 (define-key org-mode-map (kbd "C-c n p") 'citar-open-notes)
 (define-key org-mode-map (kbd "C-c n n") 'citar-create-note)
 (define-key org-mode-map (kbd "C-c n s") 'dictionary-search)
