@@ -157,11 +157,7 @@ Otherwise the startup will be very slow."
 (require 'org-ref)
 (require 'org-ref-helm)
 (require 'evil)
-(require 'citar-org-roam)
-(require 'citar-embark)
 (evil-mode 1)
-(citar-org-roam-mode 1)
-(citar-embark-mode 1)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; init.el ends here
 ;; Guanghao ;;
@@ -255,12 +251,6 @@ Otherwise the startup will be very slow."
   :bind
   (:map org-mode-map :package org ("C-c n b" . #'org-cite-insert)))
 
-(setq citar-templates
-      '((main . "${author editor:30%sn}     ${date year issued:4}     ${title:48}")
-        (suffix . "          ${=key= id:15}    ${=type=:12}    ${tags keywords:*}")
-        (preview . "${author editor:%etal} (${year issued date}) ${title}, ${journal journaltitle publisher container-title collection-title}.\n")
-        (note . "Notes on ${author editor:%etal}, ${title}")))
-
 (setq citar-at-point-function 'embark-act)
 
 (use-package citar-embark
@@ -282,28 +272,12 @@ Otherwise the startup will be very slow."
   (orb-process-file-keyword t)
   (orb-attached-file-extensions '("pdf")))
 
-                                        ;(setq org-roam-capture-templates
-                                        ;'(;("d" "default" plain
-                                        ;  "%?"
-                                        ;  :target
-                                        ;  (file+head
-                                        ;   "%<%Y%m%d%H%M%S>-${slug}.org"
-                                        ;   "#+title: ${note-title}\n")
-                                        ;  :unnarrowed t)
-                                        ;("n" "literature note" plain
-                                        ; "%?"
-                                        ; :target
-                                        ; (file+head
-                                        ;  "%(expand-file-name (or citar-org-roam-subdir \"\") org-roam-directory)/${citar-citekey}.org"
-                                        ;  "#+title: ${citar-citekey} (${citar-date}). ${note-title}.\n#+created: %U\n#+last_modified: %U\n\n")
-                                        ; :unnarrowed t)))
-
-(setq citar-org-roam-note-title-template "${author} - ${title}")
-                                        ;(setq citar-org-roam-capture-template-key "n")
-
 (use-package citar-org-roam
   :after (citar org-roam)
   :config (citar-org-roam-mode))
+
+(setq citar-org-roam-note-title-template "${author} - ${title}")
+(setq citar-org-roam-capture-template-key "n")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;org noter;;;;;;;;;;;;;;;
 (use-package org-noter
@@ -312,18 +286,14 @@ Otherwise the startup will be very slow."
   (org-noter-notes-search-path '("~/org/mylib/pdf/")) ;; 默认笔记路径
   (org-noter-auto-save-last-location t) ;; 自动保存上次阅读位置
   (org-noter-max-short-selected-text-length 20) ;; 默认为 80
-  (org-noter-default-heading-title "Notes of page $p$")) ;; 默认短标题格式
-                                        ;:bind
-                                        ;(("C-c n n" . org-noter) ;; 与 org-roam 配合
-                                        ;:map org-noter-doc-mode-map ;; 加入左手键位
-                                        ;("e" . org-noter-insert-note)
-                                        ;("M-e" . org-noter-insert-precise-note)))
+  (org-noter-default-heading-title "Notes of page $p$") ;; 默认短标题格式
+  :bind
+  (("C-c n n" . org-noter) ;; 与 org-roam 配合
+   :map org-noter-doc-mode-map ;; 加入左手键位
+   ("e" . org-noter-insert-note)
+   ("M-e" . org-noter-insert-precise-note)))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-                                        ; (define-key org-mode-map (kbd "C-c n b") 'org-ref-cite-insert-helm)
-(define-key org-mode-map (kbd "C-c n o") 'citar-open-note)
-(define-key org-mode-map (kbd "C-c n r") 'citar-dwim)
-(define-key org-mode-map (kbd "C-c n p") 'citar-open-notes)
-(define-key org-mode-map (kbd "C-c n n") 'citar-create-note)
+; (define-key org-mode-map (kbd "C-c n b") 'org-ref-cite-insert-helm)
 (define-key org-mode-map (kbd "C-c n s") 'dictionary-search)
 (define-key org-mode-map (kbd "C-c n e") 'lsp-execute-code-action)
 ;; Guanghao ;;
