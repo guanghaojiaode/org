@@ -182,15 +182,15 @@ Otherwise the startup will be very slow."
   (org-roam-dailies-directory "~/org/dailies/") ;; 默认日记目录, 上一目录的相对路径
   (org-roam-db-gc-threshold most-positive-fixnum) ;; 提高性能
   :bind (("C-c n f" . org-roam-node-find)
-         ("C-c n i" . org-roam-node-insert)
-         ("C-c n c" . org-roam-capture)
-         ("C-c n l" . org-roam-buffer-toggle) ;; 显示后链窗口
-         ("C-c n u" . org-roam-ui-mode)
-         :map org-mode-map
-         ("C-M-i" . completion-at-point)
-         ) ;; 浏览器中可视化
+   ("C-c n i" . org-roam-node-insert)
+   ("C-c n c" . org-roam-capture)
+   ("C-c n l" . org-roam-buffer-toggle) ;; 显示后链窗口
+   ("C-c n u" . org-roam-ui-mode)
+       ("C-c n d" . org-roam-dailies-find-date) ;; 日记菜单
+   :map org-mode-map
+   ("C-M-i" . completion-at-point)
+   ) ;; 浏览器中可视化
   :bind-keymap
-  ("C-c n d" . org-roam-dailies-map) ;; 日记菜单
   :config
   (org-roam-setup)
   (org-roam-bibtex-mode +1)
