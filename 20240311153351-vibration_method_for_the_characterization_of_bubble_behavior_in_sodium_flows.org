@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       973b3f7e-b2b3-4c9a-91ea-91b36d00150e
+:ROAM_REFS: cite:qinVibrationMethodCharacterization2022
+:END:
+#+title: Vibration method for the characterization of bubble behavior in sodium flows
+

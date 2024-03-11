@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       43c69a41-f176-489a-ae41-3c629dcc4221
+:ROAM_REFS: cite:qiuExperimentalResearchThermal2015
+:END:
+#+title: Experimental research on the thermal hydraulic characteristics of liquid sodium flowing in annuli with low Peclet number
+

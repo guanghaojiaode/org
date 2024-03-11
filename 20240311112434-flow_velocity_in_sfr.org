@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       dee2810c-c5e5-4537-99cc-f64c5a959d05
+:END:
+#+title: Flow Velocity in SFR
+* Question: Will it be a problem to have no velocity in the experiment?
+- Are the experiment results still meaningful? Because there is velocity in the reactor, but there is maybe no velocity in our experiments. 
+* What will change if there is a flow velocity?
+** What does "meaningful" mean?
+- How much does the flow velocity influence the bubble behavior?
+  + *Then we can ask, what is the typical flow velocity in a nuclear reactor?*
+    [[file:images/flow_velocity.png][Flow Velocities in Fast Reactors]]
+    It is in the range of 2-9 m/s. The average is about 6 m/s. (Fast Reactor Database 2006 Update)
+  + *Which bubble behaviors exist in the nuclear reactor?* 
+    Typically there are growth, sliding, detachment, coalescence, bursting, and condensation. ([[id:973b3f7e-b2b3-4c9a-91ea-91b36d00150e][qinVibrationMethodCharacterization2022]])
+** Heat transfer is important for the liquid sodium.
+- There are three different types of [[id:bc3476ae-96b8-4c57-9b4f-2bfaa12bf1f1][Heat Transfer]]. Conduction, convection and radiation.
+- The heat transfer in liquid sodium caused by the change of the flow velocity is mainly due to the change of the convection. 
+- [[id:a703a0c8-0260-42d2-b58a-4625b5eaa7f2][Prandtl Number (Pr)]] is an important number representing whether the thermal diffusion or the momentum diffusion dominites.
+  #+begin_quote
+- The thermal conductivity of liquid sodium is two orders of magnitude higher than that of ordinary fluids (such as water, Freon) and this results in the convective heat transfer of liquid sodium being different from that of ordinary fluids. ([[id:43c69a41-f176-489a-ae41-3c629dcc4221][qiuExperimentalResearchThermal2015]])
+  #+end_quote
+** How does flow velocity change the bubble behavior?
+** What is the situation for water instead of sodium?
+** What is the difference between water and sodium?

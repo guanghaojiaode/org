@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c9c76505-3830-43d0-943c-eaeac3884a75
+:END:
+#+title: Magnetohydrodynamic (MHD)
+The study of flow of electrically conducting liquids in electric and magnetic fields
+The MHD pump uses the [[id:942cb636-22b2-4684-a486-1fed3ef2522d][Lorenz Force]] as the pumping force.

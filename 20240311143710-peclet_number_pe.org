@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1d137a33-26a5-4f40-b89c-94866cc9f4d1
+:END:
+#+title: Peclet Number (Pe)
+- ${\displaystyle \mathrm {Pe} ={\dfrac {\mbox{advective transport rate}}{\mbox{diffusive transport rate}}}}$
+- Pe = 0: advection negligible, diffusion dominates the mass transport
+- Pe = 1: advection & diffusion the same
+- Pe = infinite: diffusion negligible, advection dominates.
