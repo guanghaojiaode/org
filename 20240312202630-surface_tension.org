@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6d7a63dd-dfbf-48f8-b836-f50728e0112c
+:END:
+#+title: Surface Tension
+Liquid shrinks into the minimum surface area possible.
+Water surface tension is already pretty high. The surface tension of Mercury is higher.
