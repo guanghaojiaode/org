@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fcc4c8f7-61ea-419e-81d1-6dcd3b7b4d09
+:ROAM_REFS: cite:jordanSurfaceTensionLiquid1965
+:END:
+#+title: The surface tension of liquid sodium and liquid potassium
+

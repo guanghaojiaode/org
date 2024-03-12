@@ -16,10 +16,12 @@
 ** Heat transfer is important for the liquid sodium.
 - There are three different types of [[id:bc3476ae-96b8-4c57-9b4f-2bfaa12bf1f1][Heat Transfer]]. Conduction, convection and radiation.
 - The heat transfer in liquid sodium caused by the change of the flow velocity is mainly due to the change of the convection. 
-- [[id:a703a0c8-0260-42d2-b58a-4625b5eaa7f2][Prandtl Number (Pr)]] is an important number representing whether the thermal diffusion or the momentum diffusion dominites.
+- [[id:a703a0c8-0260-42d2-b58a-4625b5eaa7f2][Prandtl Number (Pr)]] is an important number representing whether the thermal diffusion or the momentum diffusion dominates.
+- [[id:a085096a-8909-42d6-88d6-1c2d51e8c6b2][Nusselt Number (Nu)]] is also an important number.
   #+begin_quote
 - The thermal conductivity of liquid sodium is two orders of magnitude higher than that of ordinary fluids (such as water, Freon) and this results in the convective heat transfer of liquid sodium being different from that of ordinary fluids. ([[id:43c69a41-f176-489a-ae41-3c629dcc4221][qiuExperimentalResearchThermal2015]])
   #+end_quote
 ** How does flow velocity change the bubble behavior?
 ** What is the situation for water instead of sodium?
 ** What is the difference between water and sodium?
+- The most significant difference is the [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]].

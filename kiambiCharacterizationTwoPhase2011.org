@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2e3192d0-bf4b-47f9-8438-1c8b406b618a
+:ROAM_REFS: @kiambiCharacterizationTwoPhase2011
+:END:
+#+title: Kiambi, S.L. and Kiriamiti, H.K. and Kumar, A. - Characterization of Two Phase Flows in Chemical Engineering Reactors
+
+- Instructive method
+- Results: void fraction, bubble diameter, liquid velocity.
+- Conclusion: a strong relationship between liquid circulation velocity and the gas velocity.

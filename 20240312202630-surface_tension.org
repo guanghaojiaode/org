@@ -2,5 +2,17 @@
 :ID:       6d7a63dd-dfbf-48f8-b836-f50728e0112c
 :END:
 #+title: Surface Tension
-Liquid shrinks into the minimum surface area possible.
-Water surface tension is already pretty high. The surface tension of Mercury is higher.
+* Definition
+- Liquid shrinks into the minimum surface area possible.
+- The symbol $\gamma$ is used to describe it.
+* Example
+- Water surface tension is already pretty high. The surface tension of Mercury is higher.
+| Material      | Temperature (Celcius) | Temp Coefficient     | Surface Tension    | Citation                     |
+|---------------+-----------------------+----------------------+--------------------+--------------------------------|
+| liquid sodium |                  97.8 | -0.11 dyn cm-1 deg-1 | 200.2±0.6 dyn cm-1 | [[id:fcc4c8f7-61ea-419e-81d1-6dcd3b7b4d09][jordanSurfaceTensionLiquid1965]] |
+| water         |                   100 |                      | 58.85 dyn cm-1     | [[https://en.wikipedia.org/wiki/Surface_tension][Surface Tension]]                |
+
+- Therefore, the surface tension of sodium is much higher than water.
+* Questions
+** What does it mean to have a high surface tension regarding the bubble behavior?
+** What [[id:dfd1d9a2-98fe-4be2-ab7e-d2e0f750f32b][Hypothesis]] can we make?
