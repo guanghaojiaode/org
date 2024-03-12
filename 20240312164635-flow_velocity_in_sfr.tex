@@ -1,0 +1,67 @@
+% Created 2024-03-12 Tue 19:57
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\date{\today}
+\title{Flow Velocity in SFR}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={Flow Velocity in SFR},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 29.2 (Org mode 9.6.15)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Question: Will it be a problem to have no velocity in the experiment?}
+\label{sec:org0a6c60a}
+\begin{itemize}
+\item Are the experiment results still meaningful? Because there is velocity in the reactor, but there is maybe no velocity in our experiments.
+\end{itemize}
+\section{What will change if there is a flow velocity?}
+\label{sec:orgd58cfe8}
+\subsection{What does "meaningful" mean?}
+\label{sec:orgb8e190a}
+\begin{itemize}
+\item How much does the flow velocity influence the bubble behavior?
+\begin{itemize}
+\item \textbf{Then we can ask, what is the typical flow velocity in a nuclear reactor?}
+\href{images/flow\_velocity.png}{Flow Velocities in Fast Reactors}
+It is in the range of 2-9 m/s. The average is about 6 m/s. (Fast Reactor Database 2006 Update)
+\item \textbf{Which bubble behaviors exist in the nuclear reactor?} 
+Typically there are growth, sliding, detachment, coalescence, bursting, and condensation. (\href{20240311153351-vibration_method_for_the_characterization_of_bubble_behavior_in_sodium_flows.org}{qinVibrationMethodCharacterization2022})
+\end{itemize}
+\end{itemize}
+\subsection{Heat transfer is important for the liquid sodium.}
+\label{sec:org7f7c21f}
+\begin{itemize}
+\item There are three different types of \href{20240311121145-heat_transfer.org}{Heat Transfer}. Conduction, convection and radiation.
+\item The heat transfer in liquid sodium caused by the change of the flow velocity is mainly due to the change of the convection.
+\item \href{20240311124602-prandtl_number_pr.org}{Prandtl Number (Pr)} is an important number representing whether the thermal diffusion or the momentum diffusion dominites.
+\begin{quote}
+\begin{itemize}
+\item The thermal conductivity of liquid sodium is two orders of magnitude higher than that of ordinary fluids (such as water, Freon) and this results in the convective heat transfer of liquid sodium being different from that of ordinary fluids. (\href{20240311135648-experimental_research_on_the_thermal_hydraulic_characteristics_of_liquid_sodium_flowing_in_annuli_with_low_peclet_number.org}{qiuExperimentalResearchThermal2015})
+\end{itemize}
+\end{quote}
+\end{itemize}
+\subsection{How does flow velocity change the bubble behavior?}
+\label{sec:org4f041c0}
+\subsection{What is the situation for water instead of sodium?}
+\label{sec:org22f1dca}
+\subsection{What is the difference between water and sodium?}
+\label{sec:orgc877f71}
+\end{document}

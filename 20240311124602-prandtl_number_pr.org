@@ -3,7 +3,7 @@
 :END:
 #+title: Prandtl Number (Pr)
 #+begin_quote
-- Prandtl number is the radio of momentum diffusivity and thermal diffusivity. 
-- Experimental data showed that, Convective heat transfer coefficient increases with increase of Re number and decreases with increase of average fluid temperature.
+- Prandtl number is the ratio of momentum diffusivity and thermal diffusivity. 
+- Experimental data showed that the convective heat transfer coefficient increases with the increase of Re number and decreases with the increase of average fluid temperature.
 - ([[id:43c69a41-f176-489a-ae41-3c629dcc4221][qiuExperimentalResearchThermal2015]])
 #+end_quote

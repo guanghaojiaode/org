@@ -8,20 +8,6 @@
 ;; Keywords: .emacs.d centaur
 
 ;;
-;;                          `..`
-;;                        ````+ `.`
-;;                    /o:``   :+ ``
-;;                .+//dho......y/..`
-;;                `sdddddhysso+h` ``
-;;                  /ddd+`..` +. .`
-;;                 -hos+    `.:```
-;;               `./dddyo+//osso/:`
-;;             `/o++dddddddddddddod-
-;;            `// -y+:sdddddsddsy.dy
-;;                /o   `..```h+`y+/h+`
-;;                .s       `++``o:  ``
-;;                        `:- `:-
-;;
 ;;   CENTAUR EMACS - Enjoy Programming & Writing
 
 ;; This file is not part of GNU Emacs.
@@ -156,10 +142,8 @@ Otherwise the startup will be very slow."
 (require 'init-web)
 (require 'org-ref)
 (require 'org-ref-helm)
-(require 'evil)
 (require 'citar-org-roam)
 (require 'citar-embark)
-(evil-mode 1)
 (citar-org-roam-mode 1)
 (citar-embark-mode 1)
 (add-hook 'org-mode-hook 'display-line-numbers-mode)
@@ -173,6 +157,55 @@ Otherwise the startup will be very slow."
 
 (setq dictionary-server "dict.org")
 
+;;; Language parsing
+
+(use-package tree-sitter
+  :ensure t
+  :defer t
+  :diminish " tree"
+  :hook ((zig-mode-hook) . (lambda ()
+			                 (tree-sitter-mode)
+			                 (tree-sitter-hl-mode))))
+(use-package tree-sitter-langs
+  :ensure t
+  :defer t)
+
+(use-package tree-sitter
+  :commands (treesit-install-language-grammar nf/treesit-install-all-languages)
+  :init
+  (setq treesit-language-source-alist
+        '((bash . ("https://github.com/tree-sitter/tree-sitter-bash"))
+          (c . ("https://github.com/tree-sitter/tree-sitter-c"))
+          (cpp . ("https://github.com/tree-sitter/tree-sitter-cpp"))
+          (css . ("https://github.com/tree-sitter/tree-sitter-css"))
+          (cmake . ("https://github.com/uyha/tree-sitter-cmake"))
+          (go . ("https://github.com/tree-sitter/tree-sitter-go"))
+          (html . ("https://github.com/tree-sitter/tree-sitter-html"))
+          (javascript . ("https://github.com/tree-sitter/tree-sitter-javascript"))
+          (json . ("https://github.com/tree-sitter/tree-sitter-json"))
+          (julia . ("https://github.com/tree-sitter/tree-sitter-julia"))
+          (lua . ("https://github.com/Azganoth/tree-sitter-lua"))
+          (make . ("https://github.com/alemuller/tree-sitter-make"))
+          (ocaml . ("https://github.com/tree-sitter/tree-sitter-ocaml" "master" "ocaml/src"))
+          (python . ("https://github.com/tree-sitter/tree-sitter-python"))
+          (php . ("https://github.com/tree-sitter/tree-sitter-php"))
+          (typescript . ("https://github.com/tree-sitter/tree-sitter-typescript" "master" "typescript/src"))
+          (tsx . ("https://github.com/tree-sitter/tree-sitter-typescript" "master" "tsx/src"))
+          (ruby . ("https://github.com/tree-sitter/tree-sitter-ruby"))
+          (rust . ("https://github.com/tree-sitter/tree-sitter-rust"))
+          (sql . ("https://github.com/m-novikov/tree-sitter-sql"))
+          (toml . ("https://github.com/tree-sitter/tree-sitter-toml"))
+          (zig . ("https://github.com/GrayJack/tree-sitter-zig"))))
+  :config
+  (defun nf/treesit-install-all-languages ()
+    "Install all languages specified by `treesit-language-source-alist'."
+    (interactive)
+    (let ((languages (mapcar 'car treesit-language-source-alist)))
+      (dolist (lang languages)
+	    (treesit-install-language-grammar lang)
+	    (message "`%s' parser was installed." lang)
+	    (sit-for 0.75)))))
+
 (use-package org-roam
   :ensure t ;; 自动安装
   :custom
@@ -182,14 +215,14 @@ Otherwise the startup will be very slow."
   (org-roam-dailies-directory "~/org/dailies/") ;; 默认日记目录, 上一目录的相对路径
   (org-roam-db-gc-threshold most-positive-fixnum) ;; 提高性能
   :bind (("C-c n f" . org-roam-node-find)
-   ("C-c n i" . org-roam-node-insert)
-   ("C-c n c" . org-roam-capture)
-   ("C-c n l" . org-roam-buffer-toggle) ;; 显示后链窗口
-   ("C-c n u" . org-roam-ui-mode)
-   ("C-c n d" . org-roam-dailies-find-date) ;; 日记菜单
-   :map org-mode-map
-   ("C-M-i" . completion-at-point)
-   ) ;; 浏览器中可视化
+         ("C-c n i" . org-roam-node-insert)
+         ("C-c n c" . org-roam-capture)
+         ("C-c n l" . org-roam-buffer-toggle) ;; 显示后链窗口
+         ("C-c n u" . org-roam-ui-mode)
+         ("C-c n d" . org-roam-dailies-find-date) ;; 日记菜单
+         :map org-mode-map
+         ("C-M-i" . completion-at-point)
+         ) ;; 浏览器中可视化
   :config
   (org-roam-setup)
   (org-roam-bibtex-mode +1)
