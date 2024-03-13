@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       da14bc48-3d11-4e21-8909-5044e48dcb5f
+:END:
+#+title: Bubble Behaviors
+* Types
+** [[id:3d473d21-5ba7-40f2-a5b8-84cc6c46a920][Bubble Coalescence]]
+** [[id:f5183270-7697-4985-b4f3-dc56bca7760e][Bubble Collapse]]

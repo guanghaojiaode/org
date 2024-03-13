@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d95fb5de-331f-41e6-9375-47e6f13500a5
+:END:
+#+title: Reynold's Number (Re)
+* Definition
+- $Re = \frac{inertial\ force}{viscous\ force} = \frac{d u \rho}{\mu}$
+- Laminar --> Turbulent

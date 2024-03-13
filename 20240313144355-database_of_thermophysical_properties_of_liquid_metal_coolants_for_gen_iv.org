@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dd219b5e-91d2-46c9-bc63-b4fd74fbc3c9
+:ROAM_REFS: cite:sobolevDatabaseThermophysicalProperties
+:END:
+#+title: Database of thermophysical properties of liquid metal coolants for GEN-IV
+

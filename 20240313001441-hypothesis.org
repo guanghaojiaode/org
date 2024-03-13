@@ -2,4 +2,3 @@
 :ID:       dfd1d9a2-98fe-4be2-ab7e-d2e0f750f32b
 :END:
 #+title: Hypothesis
-

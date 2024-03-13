@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d53a8258-947c-4496-9624-7c475d5bbcb8
+:END:
+#+title: Viscosity
+
+* Liquid Sodium
+| Temperature | Viscosity        |
+|-------------+------------------|
+| 100°C       | 0.680 centipoise |
+| 400°C       | 0.284 centipoise |
+| 550°C       | 0.225 centipoise |
+| b.p.        | 0.149 centipoise |
+- (Source: [[https://creativeengineers.com/about-us/knowledge-base/alkali-metal-chemical-safety-data-sheets-sds/physical-properties-of-sodium/][Physical Properties of Sodium]])
+- [[file:images/viscosity_sodium.png][Liquid Sodium Viscosity]]
+(Source: [[id:dd219b5e-91d2-46c9-bc63-b4fd74fbc3c9][sobolevDatabaseThermophysicalProperties]])
+* Water
+[[file:images/water_viscosity.png][Water Viscosity]]
+(Source: [[https://wiki.anton-paar.com/de-de/wasser/][Viscosity of Water]])
+* Comparison
+Therefore, the viscosity of liquid sodium is less than water. Thus, the sodium bubbles are harder to coalesce.

@@ -4,15 +4,22 @@
 #+title: Surface Tension
 * Definition
 - Liquid shrinks into the minimum surface area possible.
-- The symbol $\gamma$ is used to describe it.
+- The symbol $\gamma$ or $\sigma$ is used to describe it.
 * Example
 - Water surface tension is already pretty high. The surface tension of Mercury is higher.
-| Material      | Temperature (Celcius) | Temp Coefficient     | Surface Tension    | Citation                     |
+| Material      | Temperature (Celcius) | Temp Coefficient     | Surface Tension    | Citation                       |
 |---------------+-----------------------+----------------------+--------------------+--------------------------------|
 | liquid sodium |                  97.8 | -0.11 dyn cm-1 deg-1 | 200.2±0.6 dyn cm-1 | [[id:fcc4c8f7-61ea-419e-81d1-6dcd3b7b4d09][jordanSurfaceTensionLiquid1965]] |
-| water         |                   100 |                      | 58.85 dyn cm-1     | [[https://en.wikipedia.org/wiki/Surface_tension][Surface Tension]]                |
-
+| water         |                   100 |                      | 58.85 dyn cm-1     | [[https://en.wikipedia.org/wiki/Surface_tension][Surface Tension Wiki]]           |
 - Therefore, the surface tension of sodium is much higher than water.
 * Questions
 ** What does it mean to have a high surface tension regarding the bubble behavior?
-** What [[id:dfd1d9a2-98fe-4be2-ab7e-d2e0f750f32b][Hypothesis]] can we make?
+#+begin_quote
+(Numerical _method & experiment_) Surface tension effects on the bubble behavior can be important when the bubble size is very small, or when its curvature is large, or when the surface tension itself between two phases is huge. In a surface tension dominant two-phase flow field, the accurate calculation of the interface becomes a difficult problem especially when the ratio of the gas density to the liquid density is very small. Up to now (2011) we have not found any systematic research work on surface tension effects for two rising bubbles. ([[id:6056d62d-d53b-4d3f-b9d2-a2aeacf5b3e7][wangSurfaceTensionEffects2011]])
+#+end_quote
+- At a low [[id:355d14d9-fc5f-4b2b-8de0-43936b1bd04e][Weber Number (We)]], which means the surface tension is not negligible, the two water bubbles would not touch and merge at early time. On the contrary, at a higher We, the two bubbles would touch and merge early. ([[id:6056d62d-d53b-4d3f-b9d2-a2aeacf5b3e7][wangSurfaceTensionEffects2011]])
+** What [[id:dfd1d9a2-98fe-4be2-ab7e-d2e0f750f32b][Hypothesis]] can I make?
+*** In the liquid sodium, the bubbles tend not to coalesce easily.
+- Surface tension: Sodium > Water
+- Viscosity: Water > Sodium
+- (Water) Viscosity $\uparrow$ Coalescence $\uparrow$, Surface tension $\uparrow$ Coalescence $\downarrow$ ([[id:3d473d21-5ba7-40f2-a5b8-84cc6c46a920][Bubble Coalescence]])

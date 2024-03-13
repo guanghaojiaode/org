@@ -55,3 +55,6 @@ SCHEDULED: <2024-05-27 Thu>-<2024-05-29 Thu>
 - Abstract --> Max, but I don't need to send it to him, because he is the organizer.
 * TODO Organize the meeting with Frank 
 - State "TODO"       from              [2024-03-09 Sat 18:19]
+* TODO Structure of the PhD Thesis
+DEADLINE: <2024-06-01 Sat>
+- State "TODO"       from              [2024-03-13 Wed 09:54]

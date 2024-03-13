@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       458876ec-83c2-4b8d-a4a7-e6b487f21046
+:ROAM_REFS: cite:haasReviewBubbleDynamics2021
+:END:
+#+title: A Review of Bubble Dynamics in Liquid Metals
+

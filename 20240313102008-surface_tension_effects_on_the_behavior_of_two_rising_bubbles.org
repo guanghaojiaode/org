@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6056d62d-d53b-4d3f-b9d2-a2aeacf5b3e7
+:ROAM_REFS: cite:wangSurfaceTensionEffects2011
+:END:
+#+title: Surface Tension Effects on the Behavior of Two Rising Bubbles
+

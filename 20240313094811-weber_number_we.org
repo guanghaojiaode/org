@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       355d14d9-fc5f-4b2b-8de0-43936b1bd04e
+:END:
+#+title: Weber Number (We)
+$We = \frac{Drag\ Force}{Cohesion\ Force} = \frac{\rho v^2 l}{\sigma}$
+- It represents the ratio between the effects of the inertial force and the surface tension.
+- This is a number that represents the [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]].
+- The smaller We are, the more important the surface tension. For a huge-scale problem, $We>>1$, the effect of the surface tension is negligible.
+- In this article [[id:6056d62d-d53b-4d3f-b9d2-a2aeacf5b3e7][wangSurfaceTensionEffects2011]], the relationship between We and bubble behaviors is analyzed.
+- This We number is highly related to the behavior of [[id:3d473d21-5ba7-40f2-a5b8-84cc6c46a920][Bubble Coalescence]]. ([[id:42bf7222-3f55-4aab-9c55-f3791e74bb28][chansonAirBubbleEntrainment1996]], [[https://www.sciencedirect.com/topics/engineering/bubble-coalescence][Sciencedirect: Bubble Coalescence]])

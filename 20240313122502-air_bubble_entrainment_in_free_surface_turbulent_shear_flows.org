@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       42bf7222-3f55-4aab-9c55-f3791e74bb28
+:ROAM_REFS: cite:chansonAirBubbleEntrainment1996
+:END:
+#+title: Air bubble entrainment in free-surface turbulent shear flows
+

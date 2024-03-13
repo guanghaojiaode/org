@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       08cfe7b2-e382-41d4-8d11-452c6479114b
+:END:
+#+title: Dimensionless Numbers
+
+| Number                | Description | Explanation |
+|-----------------------+-------------+-------------|
+| [[id:a703a0c8-0260-42d2-b58a-4625b5eaa7f2][Prandtl Number (Pr)]]   |             |             |
+| [[id:a085096a-8909-42d6-88d6-1c2d51e8c6b2][Nusselt Number (Nu)]]   |             |             |
+| [[id:355d14d9-fc5f-4b2b-8de0-43936b1bd04e][Weber Number (We)]]     |             |             |
+| [[id:d95fb5de-331f-41e6-9375-47e6f13500a5][Reynold's Number (Re)]] |             |             |
+| [[id:edbc92f4-7438-44c1-8760-661ffbd4da70][Bond Number (Bo)]]      |             |             |
+
+[[file:images/dimensionless_numbers.png][Some Dimensionless Numbers]]

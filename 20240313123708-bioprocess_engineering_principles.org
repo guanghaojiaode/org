@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       07a9e2ee-ab9d-4846-862e-bd06c9ea5b59
+:ROAM_REFS: cite:doranBioprocessEngineeringPrinciples2013
+:END:
+#+title: Bioprocess Engineering Principles
+
