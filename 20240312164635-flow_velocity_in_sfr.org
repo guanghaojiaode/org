@@ -21,8 +21,7 @@
   #+end_quote
 ** The bubble size.
 #+begin_quote
-At these high flow rates, the bubble size distribution seems to be largely dominated by bubble coalescence and breakup.
-At very high flow rates, single nozzles go into jetting mode and the bubble size distribution results from breakup of the jet and sometimes subsequent coalescence.
+At these high flow rates, the bubble size distribution seems to be largely dominated by bubble coalescence and breakup. At very high flow rates, single nozzles go into jetting mode and the bubble size distribution results from breakup of the jet and sometimes subsequent coalescence.
 ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
 #+end_quote
 ** Are there any dimensionless numbers that are important for these questions?
