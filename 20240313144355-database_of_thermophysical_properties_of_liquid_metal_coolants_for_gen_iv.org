@@ -3,4 +3,5 @@
 :ROAM_REFS: cite:sobolevDatabaseThermophysicalProperties
 :END:
 #+title: Database of thermophysical properties of liquid metal coolants for GEN-IV
+#+filetags: :Journal:
 

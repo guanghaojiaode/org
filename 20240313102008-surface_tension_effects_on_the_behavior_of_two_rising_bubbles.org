@@ -3,4 +3,5 @@
 :ROAM_REFS: cite:wangSurfaceTensionEffects2011
 :END:
 #+title: Surface Tension Effects on the Behavior of Two Rising Bubbles
+#+filetags: :Journal:
 

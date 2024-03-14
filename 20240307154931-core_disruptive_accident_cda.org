@@ -5,6 +5,6 @@
 - transient overpower
 - transient undercooling
 - although the margin between the melting point and the boiling point of the sodium is huge, there is molten fuel coolant interaction.
-
+- [[file:images/SFR_safety_issues.png][SFR Safety Issues]] (Source: Design and Assessment Approach on Advanced SFR Safety with Emphasis on CDA Issue.pdf (PPT))
 
 

@@ -3,7 +3,32 @@
 :ROAM_REFS: cite:haasReviewBubbleDynamics2021
 :END:
 #+title: A Review of Bubble Dynamics in Liquid Metals
+#+filetags: :Journal:
 
 #+begin_quote
 In particular, it is critical that the differences between aqueous systems and liquid metals cannot yet be quantified.
+#+end_quote
+
+#+begin_quote
+Therefore, to predict the bubble size distribution in different processes, it is essential to develop a more detailed understanding of the coalescence and breakup mechanisms.
+#+end_quote
+
+#+begin_quote
+In liquid metals, this is currently not possible, although there is a first approach to simultaneously measure the flow and bubbles in two dimensions.
+#+end_quote
+
+#+begin_quote
+Indeed, there are few measurements on systems with Morton numbers smaller than water, which approximately correspond to the values of liquid metals. A final assessment of which explanation applies cannot be made due to the small number of experimental studies. Experiments with high-purity metals in an inert gas atmosphere could provide new insights here.
+#+end_quote
+
+#+begin_quote
+Even though the number of experimental measurements is too small for a conclusive assessment, the drag force seems to be predictable employing existing correlations. The frequently used correlation according to Tomiyama et al. generally provides reasonable accordance with measurements in liquid metals. For smaller bubbles, there is some uncertainty due to the influence of contaminants. Additionally, the influence of surrounding bubbles in a bubble swarm on the drag coefficient in liquid metals cannot be quantified yet. Nevertheless, employing existing measurement methods, it should be possible to further refine the knowledge of the drag force in liquid metals. For this purpose, bubble swarms as well as single bubbles of different size should be examined. One challenge is the generation of single large bubbles, which is difficult to control by nozzles. For this purpose, a rotating cup as proposed by Davenport might be used.
+#+end_quote
+
+#+begin_quote
+Experimentally, it will be very difficult to determine the lift coefficient for liquid metals since an exactly defined shear flow must be generated, which is difficult to control in liquid metal systems.
+#+end_quote
+
+#+begin_quote
+In summary, the behavior of gas bubbles in liquid metals is still far from being fully understood. This leads to a considerable uncertainty of numerical models of metallurgical reactors involving bubble flows. However, some direct measurement techniques have been developed in recent years that allow a more detailed analysis of different phenomena. Using these methods, further measurements should be carried out to reduce the lack of experimental data in liquid metals. With more experimental data, especially for value ranges and phenomena that have not yet been sufficiently analyzed, the discussion of the scalability of existing models can be significantly improved. This could help to reduce many of the remaining knowledge gaps in the future.
 #+end_quote

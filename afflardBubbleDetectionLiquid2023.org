@@ -3,6 +3,7 @@
 :ROAM_REFS: @afflardBubbleDetectionLiquid2023
 :END:
 #+title: afflardBubbleDetectionLiquid2023 (2023). Afflard, A. and Zamansky, R. and Paumel, K. and Bergez, W. and Tordjeman, P. - Bubble Detection in Liquid Metal by Perturbation of Eddy Currents: Model and Experiments.
+#+filetags: :Journal:
 #+created: [2024-03-10 Sun 09:54]
 #+last_modified: [2024-03-10 Sun 09:54]
 

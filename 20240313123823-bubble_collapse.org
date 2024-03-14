@@ -2,4 +2,3 @@
 :ID:       f5183270-7697-4985-b4f3-dc56bca7760e
 :END:
 #+title: Bubble Collapse
-

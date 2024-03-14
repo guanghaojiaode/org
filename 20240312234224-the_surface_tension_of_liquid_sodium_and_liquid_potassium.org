@@ -3,4 +3,5 @@
 :ROAM_REFS: cite:jordanSurfaceTensionLiquid1965
 :END:
 #+title: The surface tension of liquid sodium and liquid potassium
+#+filetags: :Journal:
 

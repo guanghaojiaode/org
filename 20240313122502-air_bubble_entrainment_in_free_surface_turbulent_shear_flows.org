@@ -3,4 +3,5 @@
 :ROAM_REFS: cite:chansonAirBubbleEntrainment1996
 :END:
 #+title: Air bubble entrainment in free-surface turbulent shear flows
+#+filetags: :Journal:
 

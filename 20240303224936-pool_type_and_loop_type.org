@@ -2,4 +2,5 @@
 :ID:       c9ab65ed-419c-452a-b7af-5d736f9a81ac
 :END:
 #+title: Pool Type and Loop Type
-The Sodium Cooled
+* Comparison of pool-type and loop-type systems
+[[file:images/camparison_pool_loop_types_of_SFR.png][Comparison of pool-type and loop-type systems]]
