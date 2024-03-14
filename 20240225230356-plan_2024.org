@@ -19,8 +19,9 @@ I did not manage to call them. They were very busy. I sent an email to them and 
 * DONE Waiting for the Reply from Ausländerbehörde
 * DONE Ask My Hausmeister to Arrange My Flat 
 DEADLINE: <2024-03-03 Sun 12:00>
-* TODO Buy the paint for the door
+* WAITING Buy the paint for the door
 SCHEDULED: <2024-03-04 Mon>
+- State "WAITING"    from "TODO"       [2024-03-13 Wed 23:28]
 * TODO Email to Frau Nahler
 SCHEDULED: <2024-03-04 Mon>
 Tell Frau Nahler that I come from China, not Hong Kong.
