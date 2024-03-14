@@ -4,3 +4,6 @@
 :END:
 #+title: A Review of Bubble Dynamics in Liquid Metals
 
+#+begin_quote
+In particular, it is critical that the differences between aqueous systems and liquid metals cannot yet be quantified.
+#+end_quote

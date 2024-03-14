@@ -11,3 +11,9 @@ In coalescing liquids such as pure water, a large fraction of bubble collisions 
 #+begin_quote
 The effects of liquid viscosity and surface tension on the coalescence have been investigated. It has been found that the interaction between the leading and following bubbles depends mainly on the liquid viscosity. The higher the liquid viscosity, the easier the bubbles interact. Therefore, bubble coalescence is more likely for high viscosity. On the other hand, for low viscosity, the liquid jet behind the leading bubble becomes stronger which prevent the bubble interaction. A postponed or non-coalescence is obtained. Regarding the surface tension effect, high surface tension results in a weak liquid jet, and the resultant high surface tension force prohibits the surface stretching. Therefore, a late coalescence is obtained. ([[id:a77b5d48-82ae-4050-8ce0-64f20a099fdc][chenCOALESCENCEBUBBLESNUMERICAL]])
 #+end_quote
+
+* Collision $\uparrow$ Coalescence $\uparrow$
+#+begin_quote
+The coalescence rate is primarily determined by the collision frequency of the bubbles. Collision is evoked by turbulent fluctuations or velocity gradients in the fluid, different bubble velocities, bubble capture in eddies, or bubble wake interaction.
+([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
+#+end_quote
