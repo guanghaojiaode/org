@@ -61,10 +61,10 @@ CLOSED: [2024-03-09 Sat 19:27]
 ** TODO Simple Experiments
 - This is about the technical meeting above.
 - I should analyze the experiment data.
-** TODO Literature review - Flow Velocity
+** TODO Literature Review - Flow Velocity
 - Is it an obstacle or not?
-- Are my experiments meaningful or not? 
-- [[id:dee2810c-c5e5-4537-99cc-f64c5a959d05][Flow Velocity in SFR]]
+- Are my experiments meaningful or not?
+- [[id:86b5f410-9ca6-4e06-8160-f94a07d75de5][Flow Velocity in SFR]]
 ** TODO Detailed Plan for all experiments in the Future
 DEADLINE: <2024-06-01 Sat>
 - Before summer vacation 06.2024

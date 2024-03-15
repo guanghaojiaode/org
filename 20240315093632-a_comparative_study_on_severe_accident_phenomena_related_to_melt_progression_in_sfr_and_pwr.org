@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9397442b-3401-4bee-9e8d-b95d9f224022
+:ROAM_REFS: cite:bachrataComparativeStudySevere2021
+:END:
+#+title: A comparative study on severe accident phenomena related to melt progression in SFR and PWR
+

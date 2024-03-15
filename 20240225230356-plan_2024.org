@@ -50,12 +50,20 @@ SCHEDULED: <2024-03-11 Sun>
 * DONE Read Max's Project Description
 - What is the difference between my project and the project of Max?
 - We need to discuss which part of the results we want to publish for each one. Because they should be different. 
-* TODO Tell Max I'll Attend the Conference
+* DONE Tell Max I'll Attend the Conference
 SCHEDULED: <2024-05-27 Thu>-<2024-05-29 Thu>
+- State "DONE"       from "WAITING"    [2024-03-15 Fri 14:44]
+- State "WAITING"    from "TODO"       [2024-03-15 Fri 14:44]
 - State "TODO"       from              [2024-03-09 Sat 18:27]
 - Abstract --> Max, but I don't need to send it to him, because he is the organizer.
 * TODO Organize the meeting with Frank 
 - State "TODO"       from              [2024-03-09 Sat 18:19]
-* TODO Structure of the PhD Thesis
+* WAITING Structure of the PhD Thesis
 DEADLINE: <2024-06-01 Sat>
-- State "TODO"       from              [2024-03-13 Wed 09:54]
+- State "WAITING"    from "TODO"       [2024-03-15 Fri 15:58]
+* [[id:96757ac2-cba2-4b65-a1e8-d9e9967eb828][RIMANUS Meeting 20240315]]
+** TODO PPT for the Conference of Max 
+- State "TODO"       from              [2024-03-15 Fri 15:58]
+** TODO Research the natural circulation
+** TODO The process of CDA
+** TODO Examples for the 

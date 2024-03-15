@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       96757ac2-cba2-4b65-a1e8-d9e9967eb828
+:END:
+#+title: RIMANUS Meeting 20240315
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+date: <2024-03-15 Fri>
+#+author:
+#+email: jiao73@FWD245
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.2 (Org mode 9.6.15)
+#+cite_export:
+
+* Define the Problem
+** Question: Which scenario is our focus?
+** Different scenarios have different flow velocities.
+- Normal condition: flow velocity is about 6 m/s.
+- [[id:8fc68ce9-87c2-45c7-9542-87c6c6139fbc][Core Disruptive Accident (CDA)]]: there is likely no such high velocity. 
+* Scenario: CDA
+** Questions:
+- What is the process of CDA?
+- Which process would be interesting for other researchers and significant for the nuclear safety?
+- Or which process is particularly blank and demanded? 
+** Literature review:
+- There is natural circulation flow in SFR.
+- The sudden loss of coolant may never happen.
+- The reason for sodium boiling is generally "Breakdown of the forced circulation".
+- It takes longer before the sodium boiling finally happens.
+* Bubble behavior
+- There is not enough study on bubble behaviors on liquid metal.
+- Then the question comes: How similar are water and liquid sodium? What is the difference between them?
+- Difference:
+  + Heat transfer: Liquid sodium >> Water
+  + Viscosity: Water > Liquid sodium
+  + Surface Tension: Liquid sodium > Water
+- Coalescence:
+  + (Water) Collision $\uparrow$ Coalescence $\uparrow$
+  + (Water) [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] $\uparrow$ Coalescence $\uparrow$, [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
+  + (Water) [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
+- Inference:
+  + It is harder for bubbles in liquid sodium to coalescence. 
+* Quotes
+#+begin_quote
+Together with a high capacity of natural circulation flow establishment in SFR, the boiling of the total sodium mass under residual power deposition (after loss of forced circulation) takes several hours. This duration is about 15 hours to get the total coolant boiling, without taking into account natural circulation flow. ([[id:9397442b-3401-4bee-9e8d-b95d9f224022][bachrataComparativeStudySevere2021]])
+#+end_quote
+
+#+begin_quote
+In SFR ‘pool-type’ reactors, the loss of coolant due to loss of pressurization e.g. pipe rupture is practically eliminated. Consequently, the severe accident scenarios with fast total loss of cooling are practically eliminated. ([[id:9397442b-3401-4bee-9e8d-b95d9f224022][bachrataComparativeStudySevere2021]])
+#+end_quote
+* Talk with Micha
+** About the knowledge
+- The talk was mainly about this page. In the literature review, it is found that in the SFR there is _natural circulation_. It is important for our experiments. Try to find it out. There are some questions:
+- What causes this natural circulation?
+- What is the velocity in the liquid sodium because of the natural circulation?
+- Then, what is the process of CDA?
+- Is the velocity in different processes of CDA different?
+- Which process is our focus that is most important for nuclear safety?
+- There was some confusion regarding the relationship between the viscosity and the bubble coalescence. Try to find some examples of it. For example "tar", "honey" and "oil", why bubbles in them are hard to coalesce with each other? Tra to explain it. 
+- Even if there relationship between the surface tension and the viscosity?   
+- At last, I need to figure out this question: Because I infer that it is more difficult for bubbles in liquid sodium to coalesce, is it fatal and interesting to know how the bubbles in liquid sodium interact with each other? For example a bubble pair in liquid sodium.
+- (What is the difference between bubbles in water and bubbles in liquid sodium?)
+- A big issue in liquid sodium is that is the sodium boiling film boiling or other kinds of boiling. Because this is dangerous. 
+** Organization
+- Ask Max what experiments has Max planned.
+- Maybe they do have not enough people to do some experiments, but we could do it.
+- The boundary of the work: What is their project and what is my project? -- This I should ask Max.
+- For the Conference in HZDR: I need to prepare a PPT to show the RIMANUS group.
+  + Two slides of the project of Suzanne.
+  + Two slides of the project of Jakub.
+  + But focus on my own project.
