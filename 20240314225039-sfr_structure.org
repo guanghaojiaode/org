@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1b3891a0-f921-4393-931f-54b34b941dce
+:END:
+#+title: SFR Structure
+* Equivalent diameter
+[[file:images/hydraulic_diameter.png][Equivalent Diameter of the Core]]

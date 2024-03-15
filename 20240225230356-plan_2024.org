@@ -9,7 +9,7 @@ CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 10:00>
 CLOSED: [2024-02-26 Mon 11:27] SCHEDULED: <2024-02-26 Mon 11:00>
 * DONE Ask the Ausländerbehörde about my Verlängerungsdatum
 CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 09:00>
-- [ ] Then it is better to write to Micha.
+- [X] Then it is better to write to Micha.
 * WAITING Coffee money
 SCHEDULED: <2024-05-01 Wed>
 The money is until 31.03.2024. I need to hand in money from May.  
@@ -65,5 +65,24 @@ DEADLINE: <2024-06-01 Sat>
 ** TODO PPT for the Conference of Max 
 - State "TODO"       from              [2024-03-15 Fri 15:58]
 ** TODO Research the natural circulation
+- State "TODO"       from              [2024-03-15 Fri 20:55]
 ** TODO The process of CDA
-** TODO Examples for the 
+- State "TODO"       from              [2024-03-15 Fri 20:55]
+** TODO Examples of the relationship between viscosity and surface tension.
+- State "TODO"       from              [2024-03-15 Fri 20:55]
+** TODO How do the bubbles interact with each other?
+- State "TODO"       from              [2024-03-15 Fri 20:55]
+** TODO What is the difference between liquid sodium and water?
+- State "TODO"       from              [2024-03-15 Fri 20:56]
+** TODO The boiling type in the SFR.
+- State "TODO"       from              [2024-03-15 Fri 20:58]
+** TODO Ask Max what experiments has he planned to do. 
+SCHEDULED: <2024-03-20 Wed>
+- State "TODO"       from              [2024-03-15 Fri 20:59]
+- Maybe they do have not enough people to do some experiments, but we could do it.
+** TODO Presentation in HZDR: Introduction to the RIMANUS Group
+- State "TODO"       from              [2024-03-15 Fri 21:01]
+- Content:
+  + Two slides of the project of Suzanne.
+  + Two slides of the project of Jakub.
+  + But focus on my project.
