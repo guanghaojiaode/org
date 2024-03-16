@@ -20,7 +20,7 @@ CLOSED: [2024-03-14 Thu 21:07]
   + *Then we can ask, what is the typical flow velocity in a nuclear reactor?*
     [[file:images/flow_velocity.png][Flow Velocities in Fast Reactors]]
     It is in the range of 2-9 m/s. The average is about 6 m/s. (Fast Reactor Database 2006 Update)
-  + *Which [[id:da14bc48-3d11-4e21-8909-5044e48dcb5f][Bubble Behaviors]] exist in the nuclear reactor?* 
+  + *Which [[id:da14bc48-3d11-4e21-8909-5044e48dcb5f][Bubble Behaviors]] exist in the nuclear reactor?*
     Typically there are growth, sliding, detachment, coalescence, bursting, and condensation. ([[id:973b3f7e-b2b3-4c9a-91ea-91b36d00150e][qinVibrationMethodCharacterization2022]])
 ** Heat transfer is important for the liquid sodium.
 - There are three different types of [[id:bc3476ae-96b8-4c57-9b4f-2bfaa12bf1f1][Heat Transfer]]. Conduction, convection and radiation.
@@ -45,3 +45,5 @@ At these high flow rates, the bubble size distribution seems to be largely domin
 - Until 2021, the difference between water and liquid sodium has not been quantified, because it could not yet. ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]]) How about today?
 * Important Literature
 1. [[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]]
+
+* Footnotes

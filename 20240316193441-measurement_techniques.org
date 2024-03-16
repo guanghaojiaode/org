@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       c9d1a0b7-827c-4d77-873e-769287cde3d7
+:END:
+#+title: Measurement Techniques
+* For liquid metal
+** Intrusive measurement methods
+- These methods are mainly used in the early studies and they are indirect.
+- These parameters can be measured:
+  + Temperature
+  + Pressure fluctuation
+  + Noise of bubble release
+  + The time between the generation and the break of the bath surface of a bubble
+  + Resistivity
+- These methods can only provide local information with high uncertainty, and sometimes they are intrusive. ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
+** Non-intrusive methods
+*** [[id:3ba2a72d-65b3-4eca-9a6e-b192b9be2c46][X-ray Imaging]]
+- This is non-intrusive and the image analysis is also possible, but the problem is that the X-ray cannot penetrate deep. Instead, neutrons can penetrate deeper, but there is too much noise in neutron images.
+- Problem until _2021_: limited to quasi-two-dimensional experiments ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
+*** [[id:64f73569-3406-4f73-b256-3be42e469dc4][Neutron Imaging]]
+- Neutrons can penetrate deeper, but there is too much more noise.
+*** Ultrasound Doppler Velocimetry
+- Can only measure the bubble velocity, and it is very difficult when measuring a higher number of bubbles.
+** Challenges
+- Measurement at high temperatures is difficult because many times the measurement equipment must be put close to the objects. So the [[id:c725b5ff-1d72-486d-8d14-26b419b70dd2][Galinstan (GaInSn)]] is often used to operate experiments, because it is already liquid at room temperature. ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
