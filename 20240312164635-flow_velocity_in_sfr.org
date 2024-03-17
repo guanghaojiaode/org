@@ -11,7 +11,7 @@
 Together with a high capacity of natural circulation flow establishment in SFR, the boiling of the total sodium mass under residual power deposition (after loss of forced circulation) takes several hours. (a comparative study on severe accident...)
 The time delay to coolant boiling is strongly related to the fact that under nominal conditions, the margin to coolant boiling in SFR is higher compared to the operating PWR as is indicated in Table 1. Moreover, in SFR ‘pool-type’ reactors, the loss of coolant due to loss of pressurization e.g. pipe rupture is practically eliminated. Consequently, the severe accident scenarios with fast total loss of cooling are practically eliminated. (a comparative study on severe accident...)
 #+end_quote
-* DONE Question: Does liquid sodium go through the structure of the core?
+* Question: Does liquid sodium go through the structure of the core?
 CLOSED: [2024-03-14 Thu 21:07]
 - Yes. Of Course.
 * What will change if there is a flow velocity?
