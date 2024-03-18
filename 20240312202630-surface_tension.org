@@ -23,3 +23,5 @@
 - Surface tension: Sodium > Water
 - Viscosity: Water > Sodium
 - (Water) Viscosity $\uparrow$ Coalescence $\uparrow$, Surface tension $\uparrow$ Coalescence $\downarrow$ ([[id:3d473d21-5ba7-40f2-a5b8-84cc6c46a920][Bubble Coalescence]])
+** What is the relationship between surface tension and viscosity? Can I show some examples?
+- 

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5b73c511-ecde-4c23-b053-b77ea46fbfe8
+:ROAM_REFS: cite:thompsonSurfacetensiondrivenCoalescence2012
+:END:
+#+title: Surface-Tension-Driven Coalescence
+#+begin_quote
+In the earliest stages of coalescence, surface tension forces due to the highly curved meniscus between the two bodies are balanced by viscosity. However, for low viscosity ﬂuids, viscous forces soon become negligible compared to the inertia of this rapid recoiling ﬂow, and so examining the surface tension driven coalescence of an inviscid ﬂuid has physical relevance.
+#+end_quote
+
+#+begin_quote
+Once a neck or meniscus has formed between the bodies, the evolution of the interface shape and ﬂow within the drops is determined by viscous, inertial and surface tension forces.
+#+end_quote
+
+#+begin_quote
+We therefore ﬁnd that inviscid surface tension driven coalescence is relevant to the later stages of water droplet coalescence.
+#+end_quote

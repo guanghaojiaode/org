@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       994cb331-8b9c-4efd-b9a5-2303b074a54c
+:ROAM_REFS: cite:daiTheoryTechnologyMultiscale2022
+:END:
+#+title: Theory and technology of multiscale dispersed particle gel for in-depth profile control
+

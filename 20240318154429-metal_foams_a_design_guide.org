@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8df90f20-65b0-4de5-a9c2-4856b8cc3b65
+:ROAM_REFS: cite:ashbyMetalFoamsDesign2000
+:END:
+#+title: Metal foams: a design guide
+

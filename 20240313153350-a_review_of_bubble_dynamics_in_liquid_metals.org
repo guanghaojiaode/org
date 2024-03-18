@@ -4,7 +4,9 @@
 :END:
 #+title: A Review of Bubble Dynamics in Liquid Metals
 #+filetags: :Journal:
-
+* Comments
+It is mainly about the liquid metal and also comparison to water. Several measurement techniques and models are introduced.
+* Quotes
 #+begin_quote
 In particular, it is critical that the differences between aqueous systems and liquid metals cannot yet be quantified.
 #+end_quote

@@ -7,13 +7,30 @@
 In coalescing liquids such as pure water, a large fraction of bubble collisions results in the formation of bigger bubbles. In contrast, in noncoalescing liquids, colliding bubbles tend to bounce off each other due to surface tension effects and do not coalesce readily. ([[id:07a9e2ee-ab9d-4846-862e-bd06c9ea5b59][doranBioprocessEngineeringPrinciples2013]], [[https://www.sciencedirect.com/topics/engineering/bubble-coalescence][Sciencedirect: Bubble Coalescence]])
 #+end_quote
 
-* (Water) [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] $\uparrow$ Coalescence $\uparrow$, [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
+* +(Water) [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] $\uparrow$ Coalescence $\uparrow$+ /(Maybe wrong!)/, [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
 #+begin_quote
 The effects of liquid viscosity and surface tension on the coalescence have been investigated. It has been found that the interaction between the leading and following bubbles depends mainly on the liquid viscosity. The higher the liquid viscosity, the easier the bubbles interact. Therefore, bubble coalescence is more likely for high viscosity. On the other hand, for low viscosity, the liquid jet behind the leading bubble becomes stronger which prevent the bubble interaction. A postponed or non-coalescence is obtained. Regarding the surface tension effect, high surface tension results in a weak liquid jet, and the resultant high surface tension force prohibits the surface stretching. Therefore, a late coalescence is obtained. ([[id:a77b5d48-82ae-4050-8ce0-64f20a099fdc][chenCOALESCENCEBUBBLESNUMERICAL]])
 #+end_quote
-
+*  [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] $\uparrow$ Coalescence $\downarrow$ (Important)
+#+begin_quote
+Experiments show that the viscosity has a greater impact on the bubble coalescence. The greater the viscosity, the harder the bubbles are to coalesce. ([[id:994cb331-8b9c-4efd-b9a5-2303b074a54c][daiTheoryTechnologyMultiscale2022]])
+#+end_quote
+#+begin_quote
+For low viscosity (samples S1–3 for D¼ 1 mm and S1–2 for D¼ 1.5 mm, Table 3), 100% coalescence was observed in all experiments. The bubble contact time T was the true coalescence time (liquid ﬁlm drainage time, Fig. 3), tended to increase with the liquid viscosity μ (Fig. 6), did not depend much on the bubble size D (Fig. 6), and decreased with increasing the bubble approach velocity V by a power law (Fig. 8). For intermediate viscosity (S4–7 for D¼1 mm, S3–4 for D¼ 1.5 mm), transition behaviour was observed. At low approach velocities, coalescence was observed for all contacted pairs, but longer contact time was needed for the coalescence to occur. When the approach velocity was increased above Vtrans, the coalescence was suppressed and the contact time became the detachment time (of larger magnitude). For high viscosity (S8 for D ¼1 mm, S5–8 for D ¼1.5 mm), no coalescence was observed. The bubble contact time was the bubble detachment time, was almost independent of the liquid viscosity, was larger for the small bubbles, and decreased with increasing the bubble approach velocity by a power law. The results are summarized in two regime maps (Figs. 9 and 10). ([[id:9ad5f52a-c5f2-46af-a83e-681ff1abe6c0][orvalhoBubbleCoalescenceEffect2015]])
+#+end_quote
 * Collision $\uparrow$ Coalescence $\uparrow$
 #+begin_quote
 The coalescence rate is primarily determined by the collision frequency of the bubbles. Collision is evoked by turbulent fluctuations or velocity gradients in the fluid, different bubble velocities, bubble capture in eddies, or bubble wake interaction.
 ([[id:458876ec-83c2-4b8d-a4a7-e6b487f21046][haasReviewBubbleDynamics2021]])
+
+Turbulence is found to significantly impact the level of bubble interaction, increasing the number of collisions and coalescences, but at the same time also increasing the number of collisions that do not result in a coalescence event (coalescence efficiency). The different behaviour of the bubbles, and the impact it has on the turbulence field in the two flow configurations examined, also plays a major role in the coalescence process. ([[id:3372c000-52d6-4828-a2cc-e19c2d001c0b][asiagbeMicrobubblesCoalescenceTransport2018]])
 #+end_quote
+* Coalescence Sensitive to Surface-Active Agents
+#+begin_quote
+It is important to emphasize that these parameters, and bubble coalescence, are extremely sensitive to the presence of surface-active agents. ([[id:8df90f20-65b0-4de5-a9c2-4856b8cc3b65][ashbyMetalFoamsDesign2000]])
+#+end_quote
+* How [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] and [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] influence the coalescence?
+- The relationship between surface tension and viscosity (and gravity): ([[id:e0b7ccff-d992-41fb-aae6-07817f3b2046][bushSURFACETENSIONMODULE]])
+- Once the meniscus is formed between two bubbles, the evolution of the interface shape and the flow within the drops are determined by the viscous, inertial and surface tension forces. ([[id:5b73c511-ecde-4c23-b053-b77ea46fbfe8][thompsonSurfacetensiondrivenCoalescence2012]])
+- At the beginning of the coalescence, the effect of the surface tension is reduced by the effect of the viscosity. For the fluid with low viscosity, the inertial effect is so remarkable that this viscous effect can be negligible. ([[id:5b73c511-ecde-4c23-b053-b77ea46fbfe8][thompsonSurfacetensiondrivenCoalescence2012]])
+- 

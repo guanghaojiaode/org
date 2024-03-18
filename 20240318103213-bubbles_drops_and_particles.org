@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ab310358-6b62-4c40-b3bf-7b92512062a0
+:ROAM_REFS: cite:cliftBubblesDropsParticles1978
+:END:
+#+title: Bubbles, drops, and particles
+

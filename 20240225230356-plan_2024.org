@@ -2,7 +2,7 @@
 :ID:       53c32a41-2435-4d9b-b970-36b6f2f69db8
 :END:
 #+title: Plan 2024
-#+TODO: TODO(t!) WAITING(w!) DONE(d!) CANCELED(c@)
+#+TODO: TODO(t!) DOING(i!) WAITING(w!) DONE(d!) CANCELED(c@) 
 * DONE Send the TK doc to the secretary.
 CLOSED: [2024-02-26 Mon 11:12] SCHEDULED: <2024-02-26 Mon 10:00>
 * DONE Anmeldungsbestätigung --> TF Bank
@@ -62,13 +62,14 @@ SCHEDULED: <2024-05-27 Thu>-<2024-05-29 Thu>
 DEADLINE: <2024-06-01 Sat>
 - State "WAITING"    from "TODO"       [2024-03-15 Fri 15:58]
 * [[id:96757ac2-cba2-4b65-a1e8-d9e9967eb828][RIMANUS Meeting 20240315]]
-** TODO PPT for the Conference of Max 
-- State "TODO"       from              [2024-03-15 Fri 15:58]
-** TODO Research the natural circulation
+** DOING Research the natural circulation
+- State "DOING"      from "TODO"       [2024-03-18 Mon 09:51]
 - State "TODO"       from              [2024-03-15 Fri 20:55]
-** TODO The process of CDA
+** DOING The process of CDA
+- State "DOING"      from "TODO"       [2024-03-18 Mon 09:51]
 - State "TODO"       from              [2024-03-15 Fri 20:55]
-** TODO Examples of the relationship between viscosity and surface tension.
+** DOING Examples of the relationship between viscosity and surface tension.
+- State "DOING"      from "TODO"       [2024-03-18 Mon 09:50]
 - State "TODO"       from              [2024-03-15 Fri 20:55]
 ** TODO How do the bubbles interact with each other?
 - State "TODO"       from              [2024-03-15 Fri 20:55]
@@ -80,9 +81,11 @@ DEADLINE: <2024-06-01 Sat>
 SCHEDULED: <2024-03-20 Wed>
 - State "TODO"       from              [2024-03-15 Fri 20:59]
 - Maybe they do have not enough people to do some experiments, but we could do it.
-** TODO Presentation in HZDR: Introduction to the RIMANUS Group
+** TODO Presentation in HZDR of Max: Introduction to the RIMANUS Group
 - State "TODO"       from              [2024-03-15 Fri 21:01]
 - Content:
   + Two slides of the project of Suzanne.
   + Two slides of the project of Jakub.
   + But focus on my project.
+** TODO PPT for the Conference of Max (the same like the above)
+- State "TODO"       from              [2024-03-15 Fri 15:58]

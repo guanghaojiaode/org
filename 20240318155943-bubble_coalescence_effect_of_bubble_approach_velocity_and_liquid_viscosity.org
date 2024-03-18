@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9ad5f52a-c5f2-46af-a83e-681ff1abe6c0
+:ROAM_REFS: cite:orvalhoBubbleCoalescenceEffect2015
+:END:
+#+title: Bubble coalescence: Effect of bubble approach velocity and liquid viscosity
+

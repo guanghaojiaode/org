@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3372c000-52d6-4828-a2cc-e19c2d001c0b
+:ROAM_REFS: cite:asiagbeMicrobubblesCoalescenceTransport2018
+:END:
+#+title: Microbubbles coalescence during transport in vertical channel flows
+

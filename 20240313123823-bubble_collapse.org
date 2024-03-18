@@ -2,3 +2,5 @@
 :ID:       f5183270-7697-4985-b4f3-dc56bca7760e
 :END:
 #+title: Bubble Collapse
+
+Visualization: [[id:ab310358-6b62-4c40-b3bf-7b92512062a0][cliftBubblesDropsParticles1978]], Fig. 12.5, Fig. 12.6 (Page 340).
