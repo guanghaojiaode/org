@@ -1,4 +1,0 @@
-* lamarshIntroductionNuclearEngineering2001
-:PROPERTIES:
-:NOTER_DOCUMENT: lamarshIntroductionNuclearEngineering2001.pdf
-:END:
