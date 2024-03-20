@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a5ade5dc-0b3b-4c6a-9704-26ed20f2b0ca
+:ROAM_REFS: cite:NuclearPowerReactor2024
+:END:
+#+title: Nuclear Power Reactor Designs
+
+#+begin_quote
+However, for liquid metal-cooled fast reactors, CDA is even more important. If the core is melted, the molten fuel compaction increases the reactivity of the core, leading to recriticality, a sudden increase in power, and a rapid release of significant energy, resulting in a CDA (Tentner et al., 2010; Wang, 2017). In general, in the study of liquid metal-cooled reactors, severe accidents are equated with CDA.
+#+end_quote

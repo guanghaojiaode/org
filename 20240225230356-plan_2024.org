@@ -77,8 +77,9 @@ DEADLINE: <2024-06-01 Sat>
 - State "TODO"       from              [2024-03-15 Fri 20:56]
 ** TODO The boiling type in the SFR.
 - State "TODO"       from              [2024-03-15 Fri 20:58]
-** TODO Ask Max what experiments has he planned to do. 
+** DONE Ask Max what experiments has he planned to do. 
 SCHEDULED: <2024-03-20 Wed>
+- State "DONE"       from "TODO"    [2024-03-20 Wed 15:03]
 - State "TODO"       from              [2024-03-15 Fri 20:59]
 - Maybe they do have not enough people to do some experiments, but we could do it.
 ** TODO Presentation in HZDR of Max: Introduction to the RIMANUS Group
@@ -87,5 +88,9 @@ SCHEDULED: <2024-03-20 Wed>
   + Two slides of the project of Suzanne.
   + Two slides of the project of Jakub.
   + But focus on my project.
-** TODO PPT for the Conference of Max (the same like the above)
-- State "TODO"       from              [2024-03-15 Fri 15:58]
+* TODO Abstract of the conference to Max
+DEADLINE: <2024-04-15 Mon>
+- State "TODO"       from              [2024-03-20 Wed 16:00]
+* TODO Experimental Meeting with Max
+SCHEDULED: <2024-04-03 Wed>
+- State "TODO"       from              [2024-03-20 Wed 15:02]

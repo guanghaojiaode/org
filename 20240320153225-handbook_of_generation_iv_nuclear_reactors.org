@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6e1c37c4-f62a-4682-95f7-91248223d7bf
+:ROAM_REFS: cite:HandbookGenerationIV2023
+:END:
+#+title: Handbook of Generation IV Nuclear Reactors
+

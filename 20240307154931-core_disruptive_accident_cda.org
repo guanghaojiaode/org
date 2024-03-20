@@ -7,4 +7,10 @@
 - although the margin between the melting point and the boiling point of the sodium is huge, there is molten fuel coolant interaction.
 - [[file:images/SFR_safety_issues.png][SFR Safety Issues]] (Source: Design and Assessment Approach on Advanced SFR Safety with Emphasis on CDA Issue.pdf (PPT))
 
-
+* Quotes
+#+begin_quote
+However, for liquid metal-cooled fast reactors, CDA is even more important. If the core is melted, the molten fuel compaction increases the reactivity of the core, leading to recriticality, a sudden increase in power, and a rapid release of significant energy, resulting in a CDA (Tentner et al., 2010; Wang, 2017). In general, in the study of liquid metal-cooled reactors, severe accidents are equated with CDA. ([[id:a5ade5dc-0b3b-4c6a-9704-26ed20f2b0ca][NuclearPowerReactor2024]])
+#+end_quote
+#+begin_quote
+Typical events coming under this category are (1) failure of structures lying along the core support path (roof slab, main vessel, core support structure, and grid plate), (2) simultaneous failure of the main vessel and safety vessel, (3) a Core Disruptive Accident (CDA), and (4) recriticality. ([[id:6e1c37c4-f62a-4682-95f7-91248223d7bf][HandbookGenerationIV2023]])
+#+end_quote
