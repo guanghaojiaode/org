@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6d0b371f-4cdf-4d53-8368-8b1a690bdc59
+:END:
+#+title: Natural Circulation in the SFR
+* Slow to Boil
+#+begin_quote
+Together with a high capacity of natural circulation flow establishment in SFR, the boiling of the total sodium mass under residual power deposition (after loss of forced circulation) takes several hours. This duration is about 15 hours to get the total coolant boiling, without taking into account natural circulation flow. ([[id:9397442b-3401-4bee-9e8d-b95d9f224022][bachrataComparativeStudySevere2021]])
+#+end_quote
+* Decay heat can be removed by the natural circulation 
+#+begin_quote
+Even if the loss-of-flow transient with scram from the rated power of 100 MWt occurs in JOYO, it is shown that the decay heat can be safely removed through natural convection. This fact indicates a high safety margin in JOYO, and simultaneously demonstrates the capability of decay heat removal in future FBR plants. ([[id:1cd33df1-b23a-4953-996c-3e0018ad068c][sawadaExperimentAnalysisNatural1990]])
+#+end_quote
+* It is an important way to remove the decay heat and it is hard to evaluate the plant dynamics under low flow of natural circulation
+#+begin_quote
+Natural circulation is one of the most important mechanisms to remove decay heat in the sodium cooled fast reactors from the viewpoint of passive safety. The fast reactors can be designed to enable core cooling with natural circulation induced by the temperature difference of the coolant without any forced convection by the circulation pumps. On the other hand, it is difficult to evaluate plant dynamics accurately under low flow natural circulation condition. ([[id:a0c8fc3d-a9f9-4a06-8356-7f1ffdbcef4c][AnalysisNaturalCirculation2015]])
+#+end_quote

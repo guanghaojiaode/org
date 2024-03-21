@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d6be0001-a26f-41f3-8082-c731aa0a3806
+:ROAM_REFS: cite:AnalysisNaturalCirculation
+:END:
+#+title: Analysis of Natural Circulation Tests in the Experimental Fast Reactor JOYO
+

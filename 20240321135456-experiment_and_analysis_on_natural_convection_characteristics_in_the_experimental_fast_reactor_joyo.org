@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1cd33df1-b23a-4953-996c-3e0018ad068c
+:ROAM_REFS: cite:sawadaExperimentAnalysisNatural1990
+:END:
+#+title: Experiment and analysis on natural convection characteristics in the experimental fast reactor joyo
+
