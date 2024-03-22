@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       29052df7-b402-422f-9aa7-d52808203bcb
+:ROAM_REFS: @ishidaValidationStudySAS4A2020
+:END:
+#+title: Ishida, Shinya and Kawada, Ken-ichi and Fukano, Yoshitaka - Validation Study of SAS4A Code for the Unprotected Loss-of-Flow Accident in an SFR
+

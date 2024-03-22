@@ -1,0 +1,1 @@
+ is the ratio of the mass of one atom of the isotope to 1/12 the mass of an atom of 12C in its ground state.
