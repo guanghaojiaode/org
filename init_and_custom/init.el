@@ -228,6 +228,12 @@ Otherwise the startup will be very slow."
   (org-roam-bibtex-mode +1)
   (org-roam-db-autosync-mode))
 
+(defun org-config-fill-prefix ()
+  "Set `fill-prefix' to the empty string."
+  (setq fill-prefix ""))
+(add-hook 'org-mode-hook #'org-config-fill-prefix)
+                                        ;以上用于创建org roam新文件时lsp的错误
+
 ;; 第一步: 告诉 Emacs 从哪里读取 Zotero 的信息
 (setq zot_bib '("~/org/mylib/bib/mylib.bib") ; Zotero 用 Better BibTeX 导出的 .bib 文件. 可以是多个文件
       zot_pdf "~/org/mylib/pdf/" ; Zotero 的 ZotFile 同步文件夹
@@ -338,6 +344,21 @@ Otherwise the startup will be very slow."
 (use-package citar-org-roam
   :after (citar org-roam)
   :config (citar-org-roam-mode))
+
+                                        ;(setq reftex-cite-format 'natbib)
+;; Org mode export to PDF using pandoc
+
+(setq org-ref-insert-cite-function
+      (lambda ()
+	    (org-cite-insert nil)))
+
+(setq org-latex-pdf-process (list "latexmk -shell-escape -bibtex -f -pdf %f"))
+
+(require 'ox)
+(require 'ox-pandoc)
+(setq org-pandoc-options '((standalone . t)
+                           (pdf-engine . "pdflatex")))
+(setq org-latex-prefer-user-labels t)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;org noter;;;;;;;;;;;;;;;
 (use-package org-noter

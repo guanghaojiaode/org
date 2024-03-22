@@ -2,26 +2,20 @@
 :ID:       a68875ee-8a8c-4334-8ec9-1218c6d08c70
 :END:
 #+title: RIMANUS Meeting 20240322
-#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
-#+options: broken-links:nil c:t creator:nil d:(not "LOGBOOK") date:t e:t
-#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
-#+options: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
-#+date: <2024-03-22 Fri>
-#+author: Guanghao Jiao
-#+email: j8154@GUGU
-#+language: en
-#+select_tags: export
-#+exclude_tags: noexport
-#+creator: Emacs 29.2 (Org mode 9.6.15)
-#+cite_export:
-#+latex_header: \usepackage[backend=bibtex, style = authoryear-comp]{biblatex} % For IEEE numbered headings, use [backend=bibtex,block = ragged, style = numeric, sortcites]
-#+bibliography:mylib.bib
+#+OPTIONS: h:4 toc:nil tags:nil todo:nil ':t ^:{}
+#+BIBLIOGRAPHY:"~/org/mylib/bib/mylib.bib"
+#+LaTeX_HEADER: \bibliographystyle{ieeetr}
+#+BIND: org-latex-bibliography-style "ieeetr"
+
+#+date: \today
 
 * Scenario: Unprotected Loss of Flow (ULOF) in SFR (Almost impossible)
 - Complete failure of redundant shutdown systems [cite:@suzukiPreliminaryEvaluationUnprotected2015]
 - Failure forced circulation (e.g. Station Blackout) [cite:@zhaoNumericalSimulationNatural2023]
 - Thermal mixing happens primarily due to natural convection [cite:@guenadou107PUBLICATIONS7802022]
-
+[[cite:&ZusatzversorgungOeffentlichenDienstes]]
+[[bibliography:c:/Users/jiao73/AppData/Roaming/org/mylib/bib/mylib.bib]]
+[[cite:&zuoTwodimensionalNumericalSimulation2013]]
 *  What is the natural circulation/convection?
 - Sodium: high thermal conductivity [cite:@ishidaValidationStudySAS4A2020]
 - Thermal stratification in sodium pool [cite:@zhaoNumericalSimulationNatural2023]
@@ -61,6 +55,8 @@ The reduction of the coolant flow causes (1) the fuel temperature rise and (2) t
 #+begin_quote
 Experiments show that the viscosity has a greater impact on the bubble coalescence. The greater the viscosity, the harder the bubbles are to coalesce. [cite:@daiTheoryTechnologyMultiscale2022]
 #+end_quote
+\cite{afflardBubbleDetectionLiquid2023}
 * Bibliography
 #+print_bibliography:
-\printbibliography[heading=none]
+\bibliographystyle{plain}
+[[bibliography:~/org/mylib/bib/mylib.bib]]

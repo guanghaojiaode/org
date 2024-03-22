@@ -1,20 +1,18 @@
-% $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
-% Do not modify the above lines!
-%
-% This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
-%
-\begingroup
-\makeatletter
-\@ifundefined{ver@biblatex.sty}
-  {\@latex@error
-     {Missing 'biblatex' package}
-     {The bibliography requires the 'biblatex' package.}
-      \aftergroup\endinput}
-  {}
-\endgroup
+\begin{thebibliography}{1}
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
-\endinput
+\bibitem{ZusatzversorgungOeffentlichenDienstes}
+``{Zusatzversorgung des {\"o}ffentlichen Dienstes},''
+
+\bibitem{zuoTwodimensionalNumericalSimulation2013}
+J.~Zuo, W.~Tian, R.~Chen, S.~Qiu, and G.~Su, ``Two-dimensional numerical
+  simulation of single bubble rising behavior in liquid metal using moving
+  particle semi-implicit method,'' {\em Progress in Nuclear Energy}, vol.~64,
+  pp.~31--40, Apr. 2013.
+
+\bibitem{afflardBubbleDetectionLiquid2023}
+A.~Afflard, R.~Zamansky, K.~Paumel, W.~Bergez, and P.~Tordjeman, ``Bubble
+  detection in liquid metal by perturbation of eddy currents: {{Model}} and
+  experiments,'' {\em Journal of Applied Physics}, vol.~134, p.~134502, Oct.
+  2023.
+
+\end{thebibliography}

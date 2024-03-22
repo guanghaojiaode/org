@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       3d473d21-5ba7-40f2-a5b8-84cc6c46a920
 :END:
-#+title: Bubble Coalescence
+#+title: Bubble Coalescence 
 * (Water) [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
 #+begin_quote
 In coalescing liquids such as pure water, a large fraction of bubble collisions results in the formation of bigger bubbles. In contrast, in noncoalescing liquids, colliding bubbles tend to bounce off each other due to surface tension effects and do not coalesce readily. ([[id:07a9e2ee-ab9d-4846-862e-bd06c9ea5b59][doranBioprocessEngineeringPrinciples2013]], [[https://www.sciencedirect.com/topics/engineering/bubble-coalescence][Sciencedirect: Bubble Coalescence]])
 #+end_quote
-
+[cite:@guenadou107PUBLICATIONS7802022]
 * +(Water) [[id:d53a8258-947c-4496-9624-7c475d5bbcb8][Viscosity]] $\uparrow$ Coalescence $\uparrow$+ /(Maybe wrong!)/, [[id:6d7a63dd-dfbf-48f8-b836-f50728e0112c][Surface Tension]] $\uparrow$ Coalescence $\downarrow$
 #+begin_quote
 The effects of liquid viscosity and surface tension on the coalescence have been investigated. It has been found that the interaction between the leading and following bubbles depends mainly on the liquid viscosity. The higher the liquid viscosity, the easier the bubbles interact. Therefore, bubble coalescence is more likely for high viscosity. On the other hand, for low viscosity, the liquid jet behind the leading bubble becomes stronger which prevent the bubble interaction. A postponed or non-coalescence is obtained. Regarding the surface tension effect, high surface tension results in a weak liquid jet, and the resultant high surface tension force prohibits the surface stretching. Therefore, a late coalescence is obtained. ([[id:a77b5d48-82ae-4050-8ce0-64f20a099fdc][chenCOALESCENCEBUBBLESNUMERICAL]])
@@ -33,4 +33,3 @@ It is important to emphasize that these parameters, and bubble coalescence, are 
 - The relationship between surface tension and viscosity (and gravity): ([[id:e0b7ccff-d992-41fb-aae6-07817f3b2046][bushSURFACETENSIONMODULE]])
 - Once the meniscus is formed between two bubbles, the evolution of the interface shape and the flow within the drops are determined by the viscous, inertial and surface tension forces. ([[id:5b73c511-ecde-4c23-b053-b77ea46fbfe8][thompsonSurfacetensiondrivenCoalescence2012]])
 - At the beginning of the coalescence, the effect of the surface tension is reduced by the effect of the viscosity. For the fluid with low viscosity, the inertial effect is so remarkable that this viscous effect can be negligible. ([[id:5b73c511-ecde-4c23-b053-b77ea46fbfe8][thompsonSurfacetensiondrivenCoalescence2012]])
-- 
